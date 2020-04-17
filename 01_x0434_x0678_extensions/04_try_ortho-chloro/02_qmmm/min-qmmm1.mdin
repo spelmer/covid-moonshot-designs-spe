@@ -1,0 +1,11 @@
+minimize mpro
+ &cntrl
+  imin = 1, ncyc = 100, maxcyc = 500,
+  ntb = 0, igb = 7, cut = 9999.0,
+  ifqnt = 1,
+ /
+
+ &qmmm
+  qmmask = ':305', qmcharge = 1,
+  qm_theory = 'RM1', qmcut = 20.0,
+ /
