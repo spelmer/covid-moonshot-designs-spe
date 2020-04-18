@@ -1,0 +1,4 @@
+# I figured out how to automate this step; the method is outlined in RUN.zsh
+
+# this sets up basic preparation of protein structures; need to extend it to 
+include charges in the .pdbqt protein files
