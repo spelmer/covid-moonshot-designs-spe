@@ -1,6 +1,6 @@
 #!/bin/zsh
 
-for mol in 00{72..77}; do
+for mol in 00{72..77} 0080 00{90..91}; do
     echo "=== SPE_${mol} ==="
     cpptraj -p comp-SPE_${mol}.prmtop <<- CPPTRAJ
         trajin mincomp-SPE_${mol}.restrt 1 1 1
