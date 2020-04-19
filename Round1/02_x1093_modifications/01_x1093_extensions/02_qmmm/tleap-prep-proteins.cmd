@@ -18,6 +18,39 @@ savepdb comp_S77 comp-SPE_0077-out.pdb
 
 
 
+# === SPE_0090 :: S90 ===
+loadamberparams SPE_0090.frcmod
+saveamberparm S90 SPE_0090.prmtop SPE_0090.inpcrd
+savemol2 S90 SPE_0090-out.mol2 1
+
+comp_S90 = combine { prot S90 }
+saveamberparm comp_S90 comp-SPE_0090.prmtop comp-SPE_0090.inpcrd
+savepdb comp_S90 comp-SPE_0090-out.pdb
+
+
+
+# === SPE_0091 :: S91 ===
+loadamberparams SPE_0091.frcmod
+saveamberparm S91 SPE_0091.prmtop SPE_0091.inpcrd
+savemol2 S91 SPE_0091-out.mol2 1
+
+comp_S91 = combine { prot S91 }
+saveamberparm comp_S91 comp-SPE_0091.prmtop comp-SPE_0091.inpcrd
+savepdb comp_S91 comp-SPE_0091-out.pdb
+
+
+
+# === SPE_0080 :: S80 ===
+loadamberparams SPE_0080.frcmod
+saveamberparm S80 SPE_0080.prmtop SPE_0080.inpcrd
+savemol2 S80 SPE_0080-out.mol2 1
+
+comp_S80 = combine { prot S80 }
+saveamberparm comp_S80 comp-SPE_0080.prmtop comp-SPE_0080.inpcrd
+savepdb comp_S80 comp-SPE_0080-out.pdb
+
+
+
 # === SPE_0072 :: S72 ===
 loadamberparams SPE_0072.frcmod
 saveamberparm S72 SPE_0072.prmtop SPE_0072.inpcrd
