@@ -7,6 +7,27 @@ saveamberparm S77 SPE_0077.prmtop SPE_0077.inpcrd
 savemol2 S77 SPE_0077-out.mol2 1
 saveoff S77 x1093_ext.lib
 
+# === SPE_0090 :: S90 ===
+loadamberparams SPE_0090.frcmod
+S90 = loadmol2 SPE_0090a.mol2
+saveamberparm S90 SPE_0090.prmtop SPE_0090.inpcrd
+savemol2 S90 SPE_0090-out.mol2 1
+saveoff S90 x1093_ext.lib
+
+# === SPE_0091 :: S91 ===
+loadamberparams SPE_0091.frcmod
+S91 = loadmol2 SPE_0091a.mol2
+saveamberparm S91 SPE_0091.prmtop SPE_0091.inpcrd
+savemol2 S91 SPE_0091-out.mol2 1
+saveoff S91 x1093_ext.lib
+
+# === SPE_0080 :: S80 ===
+loadamberparams SPE_0080.frcmod
+S80 = loadmol2 SPE_0080a.mol2
+saveamberparm S80 SPE_0080.prmtop SPE_0080.inpcrd
+savemol2 S80 SPE_0080-out.mol2 1
+saveoff S80 x1093_ext.lib
+
 # === SPE_0072 :: S72 ===
 loadamberparams SPE_0072.frcmod
 S72 = loadmol2 SPE_0072a.mol2
