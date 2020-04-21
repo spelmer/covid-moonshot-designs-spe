@@ -1,0 +1,444 @@
+
+          -------------------------------------------------------
+          Amber 18 SANDER                              2018
+          -------------------------------------------------------
+
+| Run on 04/14/2020 at 14:58:06
+
+|   Executable path: sander
+| Working directory: /Users/sid/Documents/Research/2020_SARS_CoV_2/20200325_diamond_postera_3CLPro/50_combine_frags/02_x0434_x0678_extensions/02_extend_x0434_or_x0678_redo/02_qmmm
+|          Hostname: Unknown
+  [-O]verwriting output
+
+File Assignments:
+|  MDIN: min-qmmm.mdin                                                         
+| MDOUT: mincomp-SPE_0030.mdout                                                
+|INPCRD: comp-SPE_0030.inpcrd                                                  
+|  PARM: comp-SPE_0030.prmtop                                                  
+|RESTRT: mincomp-SPE_0030.restrt                                               
+|  REFC: refc                                                                  
+| MDVEL: mdvel                                                                 
+| MDFRC: mdfrc                                                                 
+|  MDEN: mden                                                                  
+| MDCRD: mdcrd                                                                 
+|MDINFO: mdinfo                                                                
+|  MTMD: mtmd                                                                  
+|INPDIP: inpdip                                                                
+|RSTDIP: rstdip                                                                
+|INPTRA: inptraj                                                               
+
+
+ Here is the input file:
+
+minimize mpro                                                                  
+ &cntrl                                                                        
+  imin = 1, ncyc = 100, maxcyc = 500,                                          
+  ntb = 0, igb = 7, cut = 9999.0,                                              
+  ifqnt = 1,                                                                   
+ /                                                                             
+                                                                               
+ &qmmm                                                                         
+  qmmask = ':305', qmcharge = 0,                                               
+  qm_theory = 'RM1', qmcut = 20.0,                                             
+ /                                                                             
+
+--------------------------------------------------------------------------------
+   1.  RESOURCE   USE: 
+--------------------------------------------------------------------------------
+
+| Flags:                                                                        
+| New format PARM file being parsed.
+| Version =    1.000 Date = 04/14/20 Time = 13:42:28
+ NATOM  =    4677 NTYPES =      23 NBONH =    2310 MBONA  =    2421
+ NTHETH =    5219 MTHETA =    3291 NPHIH =   10768 MPHIA  =   10495
+ NHPARM =       0 NPARM  =       0 NNB   =   25735 NRES   =     305
+ NBONA  =    2421 NTHETA =    3291 NPHIA =   10495 NUMBND =      89
+ NUMANG =     202 NPTRA  =     209 NATYP =      46 NPHB   =       0
+ IFBOX  =       0 NMXRS  =      31 IFCAP =       0 NEXTRA =       0
+ NCOPY  =       0
+
+ Implicit solvent radii are ArgH and AspGluO modified Bondi2 radii (mbondi3)                                
+ Replacing prmtop screening parameters with GBn (igb=7) values
+| CMAP information read from topology file: 
+
+|     Memory Use     Allocated
+|     Real              401519
+|     Hollerith          14338
+|     Integer           283394
+|     Max Pairs              1
+|     nblistReal             0
+|     nblist Int             0
+|       Total             4299 kbytes
+
+| Note: 1-4 EEL scale factors are being read from the topology file.
+
+| Note: 1-4 VDW scale factors are being read from the topology file.
+| Duplicated    0 dihedrals
+| Duplicated    0 dihedrals
+|CMAP: Reticulating splines.
+LOADING THE QUANTUM ATOMS AS GROUPS
+     Mask :305; matches    31 atoms
+
+--------------------------------------------------------------------------------
+   2.  CONTROL  DATA  FOR  THE  RUN
+--------------------------------------------------------------------------------
+
+default_name                                                                    
+
+General flags:
+     imin    =       1, nmropt  =       0
+
+Nature and format of input:
+     ntx     =       1, irest   =       0, ntrx    =       1
+
+Nature and format of output:
+     ntxo    =       2, ntpr    =      50, ntrx    =       1, ntwr    =       1
+     iwrap   =       0, ntwx    =       0, ntwv    =       0, ntwe    =       0
+     ioutfm  =       1, ntwprt  =       0, idecomp =       0, rbornstat=      0
+
+Potential function:
+     ntf     =       1, ntb     =       0, igb     =       7, nsnb    =      25
+     ipol    =       0, gbsa    =       0, iesp    =       0
+     dielc   =   1.00000, cut     =9999.00000, intdiel =   1.00000
+     saltcon =   0.00000, offset  =   0.09000, gbalpha=    1.09511
+     gbbeta  =   1.90793, gbgamma =   2.50798, surften =   0.00500
+     rdt     =   0.00000, rgbmax  =  25.00000  extdiel =  78.50000
+     alpb  =        0
+
+Frozen or restrained atoms:
+     ibelly  =       0, ntr     =       0
+
+Energy minimization:
+     maxcyc  =     500, ncyc    =     100, ntmin   =       1
+     dx0     =   0.01000, drms    =   0.00010
+
+QMMM options:
+             ifqnt = True       nquant =       31
+              qmgb =        2  qmcharge =        0   adjust_q =        2
+              spin =        1     qmcut =  20.0000    qmshake =        1
+          qmmm_int =        1
+     lnk_atomic_no =        1   lnk_dis =   1.0900 lnk_method =        1
+          qm_theory =     RM1 verbosity =        0
+            qmqmdx = Analytical
+      tight_p_conv = False (converge density to 0.05xSqrt[SCFCRT])
+           scfconv = 0.100E-07  itrmax =     1000
+      printcharges = False      printdipole = False      peptide_corr = False
+    qmmmrij_incore = True 
+  qmqm_erep_incore = True 
+       pseudo_diag = True pseudo_diag_criteria =   0.0500
+      diag_routine =        0
+          qm_ewald =        0 qm_pme = False 
+|  INFO: Old style inpcrd file read
+
+
+--------------------------------------------------------------------------------
+   3.  ATOMIC COORDINATES AND VELOCITIES
+--------------------------------------------------------------------------------
+
+default_name                                                                    
+ begin time read from input coords =     0.000 ps
+
+ Number of triangulated 3-point waters found:        0
+QMMM: ADJUSTING CHARGES
+QMMM: ----------------------------------------------------------------------
+QMMM: adjust_q = 2
+QMMM: Uniformly adjusting the charge of MM atoms to conserve total charge.
+QMMM:                             qm_charge =    0
+QMMM: QM atom RESP charge sum (inc MM link) =    0.000
+QMMM: Adjusting each MM atom resp charge by =    0.000
+QMMM:          Sum of MM + QM region is now =   -3.000
+QMMM: ----------------------------------------------------------------------
+
+QMMM: Link Atom Information
+QMMM: ------------------------------------------------------------------------
+QMMM: nlink =     0
+QMMM: ------------------------------------------------------------------------
+
+  QMMM: QM Region Cartesian Coordinates (*=link atom) 
+  QMMM: QM_NO.   MM_NO.  ATOM         X         Y         Z
+  QMMM:     1     4647      O        9.0980    0.7170   20.8630
+  QMMM:     2     4648      C        8.5440   -0.2000   21.3730
+  QMMM:     3     4649      N        9.1810   -0.9260   22.4450
+  QMMM:     4     4650      C       10.4660   -0.4470   22.8510
+  QMMM:     5     4651      C       10.5000    0.3870   23.9490
+  QMMM:     6     4652      C       11.7040    0.9000   24.3650
+  QMMM:     7     4653      C       12.8650    0.5840   23.6730
+  QMMM:     8     4654      C       12.8230   -0.2500   22.5690
+  QMMM:     9     4655      C       11.6120   -0.7630   22.1470
+  QMMM:    10     4656      N        7.2370   -0.6260   20.9410
+  QMMM:    11     4657      C        6.5590    0.0580   19.8740
+  QMMM:    12     4658      C        5.3530    0.6830   20.1520
+  QMMM:    13     4659      C        4.7260    1.3390   19.1050
+  QMMM:    14     4660      C        5.3210    1.3050   17.8490
+  QMMM:    15     4661      N        6.4720    0.7100   17.6440
+  QMMM:    16     4662      C        7.1030    0.0840   18.6020
+  QMMM:    17     4663      H        8.7450   -1.7250   22.8830
+  QMMM:    18     4664      H        9.5900    0.6340   24.4760
+  QMMM:    19     4665      H       11.7470    1.5480   25.2280
+  QMMM:    20     4666      H       13.8100    0.9930   23.9990
+  QMMM:    21     4667      H       13.7320   -0.4980   22.0410
+  QMMM:    22     4668      H       11.5620   -1.4030   21.2780
+  QMMM:    23     4669      H        6.7930   -1.4130   21.3920
+  QMMM:    24     4670      N        3.6830    2.1130   19.5660
+  QMMM:    25     4671      H        4.8220    1.7820   17.0190
+  QMMM:    26     4672      H        8.0430   -0.4100   18.4020
+  QMMM:    27     4673      C        4.5940    0.9970   21.3370
+  QMMM:    28     4674      H        4.8240    0.7190   22.3570
+  QMMM:    29     4675      C        3.5620    1.8570   20.9440
+  QMMM:    30     4676      H        2.8500    2.3980   21.5320
+  QMMM:    31     4677      H        3.3920    2.9760   19.0980
+
+--------------------------------------------------------------------------------
+  3.1 QM CALCULATION INFO
+--------------------------------------------------------------------------------
+
+| QMMM: Citation for AMBER QMMM Run:
+| QMMM: R.C. Walker, M.F. Crowley and D.A. Case, J. COMP. CHEM. 29:1019, 2008
+
+QMMM: SINGLET STATE CALCULATION
+QMMM: RHF CALCULATION, NO. OF DOUBLY OCCUPIED LEVELS = 47
+
+| QMMM: *** Selected Hamiltonian *** 
+| QMMM: RM1         
+
+| QMMM: *** Parameter sets in use ***
+| QMMM: O : G.B.ROCHA et al. J. COMP. CHEM., 27, 1101, (2006)
+| QMMM: C : G.B.ROCHA et al. J. COMP. CHEM., 27, 1101, (2006)
+| QMMM: N : G.B.ROCHA et al. J. COMP. CHEM., 27, 1101, (2006)
+| QMMM: H : G.B.ROCHA et al. J. COMP. CHEM., 27, 1101, (2006)
+
+| QMMM: *** Diagonalization Routine Information ***
+| QMMM: Pseudo diagonalizations are allowed.
+| QMMM: Auto diagonalization routine selection is in use.
+| QMMM:
+| QMMM: Timing diagonalization routines:
+| QMMM:                              norbs =       88
+| QMMM:    diag iterations used for timing =       15
+| QMMM:
+| QMMM:              Internal diag routine = 0.025127 seconds
+| QMMM:                 Dspev diag routine = 0.028773 seconds
+| QMMM:                Dspevd diag routine = 0.017298 seconds
+| QMMM:                Dspevx diag routine = 0.095487 seconds
+| QMMM:                 Dsyev diag routine = 0.029461 seconds
+| QMMM:                Dsyevd diag routine = 0.021567 seconds
+| QMMM:                Dsyevr diag routine = 0.023750 seconds
+| QMMM:
+| QMMM:                Pseudo diag routine = 0.010600 seconds
+| QMMM:
+| QMMM: Using dspevd routine (diag_routine=3).
+
+| QMMM: Estimated QM Dynamic Memory Usage (per thread)
+| QMMM: ---------------------------------------------------
+| QMMM:              QM Atom Type Info :          936 bytes
+| QMMM:         QM RESP Charge Storage :          248 bytes
+| QMMM:            QM Atom Number List :          124 bytes
+| QMMM:                Link Atom Pairs :            0 bytes
+| QMMM:          QM Atomic Number List :          124 bytes
+| QMMM:                QM-MM Pair List :        18588 bytes
+| QMMM:                   QM Atom Mask :         9354 bytes
+| QMMM:           QM Coordinate Arrays :       150408 bytes
+| QMMM:         Scaled MM Charge Array :        37416 bytes
+| QMMM:    SCF Mulliken Charge Storage :          248 bytes
+| QMMM:                   QM GB Arrays :        12152 bytes
+| QMMM:                QM Force Arrays :       112992 bytes
+| QMMM:                 Density Matrix :        31328 bytes
+| QMMM:          Density Matrix Copies :        32032 bytes
+| QMMM: Fock2 Density Matrix Workspace :         3968 bytes
+| QMMM:                    Fock Matrix :        31328 bytes
+| QMMM:           Eigen Vector Storage :        61952 bytes
+| QMMM: QM-QM Elec Repulsion Integrals :        81840 bytes
+| QMMM:  QM 2-Elec Repulsion Integrals :       155568 bytes
+| QMMM:              1-Electron Matrix :        31328 bytes
+| QMMM:       _REAL_ parameter storage :        69248 bytes
+| QMMM:      integer parameter storage :         1076 bytes
+| QMMM:         QM-MM RIJ Eqns storage :      5865728 bytes
+| QMMM:          _REAL_ Scratch arrays :       357840 bytes
+| QMMM:         Integer Scratch arrays :        73312 bytes
+| QMMM: ---------------------------------------------------
+| QMMM:        Total Dynamic Memory Usage:      6.808 Mb
+
+--------------------------------------------------------------------------------
+   4.  RESULTS
+--------------------------------------------------------------------------------
+
+
+
+   NSTEP       ENERGY          RMS            GMAX         NAME    NUMBER
+      1       3.9338E+03     5.2582E+01     1.7929E+02     NE       2866
+
+ BOND    =    14195.0660  ANGLE   =      752.2083  DIHED      =     1325.5838
+ VDWAALS =    -2503.4296  EEL     =   -21472.2122  EGB        =    -2730.7080
+ 1-4 VDW =     1414.0948  1-4 EEL =    12642.0703  RESTRAINT  =        0.0000
+ RM1ESCF =       30.0322
+ CMAP    =      281.0676
+
+
+   NSTEP       ENERGY          RMS            GMAX         NAME    NUMBER
+     50      -1.1408E+04     8.8318E-01     3.4358E+01     O1       4647
+
+ BOND    =      113.1014  ANGLE   =      509.0311  DIHED      =     1279.3539
+ VDWAALS =    -2508.7504  EEL     =   -21710.2170  EGB        =    -2852.4144
+ 1-4 VDW =     1090.9657  1-4 EEL =    12394.8526  RESTRAINT  =        0.0000
+ RM1ESCF =       14.6595
+ CMAP    =      261.6588
+
+
+   NSTEP       ENERGY          RMS            GMAX         NAME    NUMBER
+    100      -1.1542E+04     1.6064E+00     1.0688E+02     C1       4648
+
+ BOND    =      121.2299  ANGLE   =      519.2477  DIHED      =     1265.2839
+ VDWAALS =    -2560.4229  EEL     =   -21681.3423  EGB        =    -2864.8389
+ 1-4 VDW =     1051.3245  1-4 EEL =    12329.5167  RESTRAINT  =        0.0000
+ RM1ESCF =       20.8324
+ CMAP    =      257.3623
+
+
+   NSTEP       ENERGY          RMS            GMAX         NAME    NUMBER
+    150      -1.1772E+04     7.7577E-01     2.5313E+01     O1       4647
+
+ BOND    =      148.5991  ANGLE   =      544.5919  DIHED      =     1231.3402
+ VDWAALS =    -2633.5684  EEL     =   -21602.4125  EGB        =    -2898.0963
+ 1-4 VDW =      981.8887  1-4 EEL =    12199.8320  RESTRAINT  =        0.0000
+ RM1ESCF =       14.9885
+ CMAP    =      240.5036
+
+
+   NSTEP       ENERGY          RMS            GMAX         NAME    NUMBER
+    200      -1.1814E+04     4.1816E-01     8.5896E+00     CZ       2466
+
+ BOND    =      149.0855  ANGLE   =      548.3420  DIHED      =     1221.8274
+ VDWAALS =    -2639.9977  EEL     =   -21594.1815  EGB        =    -2903.6356
+ 1-4 VDW =      973.7317  1-4 EEL =    12180.4181  RESTRAINT  =        0.0000
+ RM1ESCF =       14.1294
+ CMAP    =      236.1919
+
+
+   NSTEP       ENERGY          RMS            GMAX         NAME    NUMBER
+    250      -1.1842E+04     2.8875E-01     5.9820E+00     OH       2467
+
+ BOND    =      149.9747  ANGLE   =      549.4992  DIHED      =     1214.7665
+ VDWAALS =    -2641.0927  EEL     =   -21587.9424  EGB        =    -2911.0695
+ 1-4 VDW =      969.0161  1-4 EEL =    12168.6736  RESTRAINT  =        0.0000
+ RM1ESCF =       14.1068
+ CMAP    =      232.2292
+
+
+   NSTEP       ENERGY          RMS            GMAX         NAME    NUMBER
+    300      -1.1864E+04     2.8937E-01     1.1038E+01     CG       4509
+
+ BOND    =      151.2835  ANGLE   =      550.3045  DIHED      =     1209.0369
+ VDWAALS =    -2642.3154  EEL     =   -21580.8402  EGB        =    -2918.0426
+ 1-4 VDW =      964.6211  1-4 EEL =    12158.6787  RESTRAINT  =        0.0000
+ RM1ESCF =       14.0233
+ CMAP    =      228.8364
+
+
+   NSTEP       ENERGY          RMS            GMAX         NAME    NUMBER
+    350      -1.1892E+04     1.7672E-01     3.1223E+00     HE2      2470
+
+ BOND    =      153.6725  ANGLE   =      550.9986  DIHED      =     1201.9026
+ VDWAALS =    -2643.7299  EEL     =   -21570.5586  EGB        =    -2927.0081
+ 1-4 VDW =      958.6421  1-4 EEL =    12145.9285  RESTRAINT  =        0.0000
+ RM1ESCF =       13.7102
+ CMAP    =      224.5117
+
+
+   NSTEP       ENERGY          RMS            GMAX         NAME    NUMBER
+    400      -1.1908E+04     1.2041E-01     2.2451E+00     SG        664
+
+ BOND    =      154.2550  ANGLE   =      551.4424  DIHED      =     1198.6471
+ VDWAALS =    -2645.5943  EEL     =   -21567.3032  EGB        =    -2931.2445
+ 1-4 VDW =      955.9892  1-4 EEL =    12140.1658  RESTRAINT  =        0.0000
+ RM1ESCF =       13.4286
+ CMAP    =      222.2030
+
+
+   NSTEP       ENERGY          RMS            GMAX         NAME    NUMBER
+    450      -1.1925E+04     1.1438E-01     1.9004E+00     OE2      4404
+
+ BOND    =      155.7509  ANGLE   =      553.1366  DIHED      =     1195.5704
+ VDWAALS =    -2643.7266  EEL     =   -21570.9695  EGB        =    -2931.8988
+ 1-4 VDW =      952.6642  1-4 EEL =    12132.0884  RESTRAINT  =        0.0000
+ RM1ESCF =       12.7075
+ CMAP    =      219.6493
+
+
+   NSTEP       ENERGY          RMS            GMAX         NAME    NUMBER
+    500      -1.1930E+04     1.0318E-01     1.8775E+00     OH       2467
+
+ BOND    =      155.7287  ANGLE   =      552.9935  DIHED      =     1194.6190
+ VDWAALS =    -2644.2520  EEL     =   -21569.0155  EGB        =    -2934.1559
+ 1-4 VDW =      952.1470  1-4 EEL =    12130.6482  RESTRAINT  =        0.0000
+ RM1ESCF =       12.5790
+ CMAP    =      219.1142
+
+
+  Maximum number of minimization cycles reached.
+
+
+                    FINAL RESULTS
+
+
+
+   NSTEP       ENERGY          RMS            GMAX         NAME    NUMBER
+    500      -1.1930E+04     1.0318E-01     1.8775E+00     OH       2467
+
+ BOND    =      155.7287  ANGLE   =      552.9935  DIHED      =     1194.6190
+ VDWAALS =    -2644.2520  EEL     =   -21569.0155  EGB        =    -2934.1559
+ 1-4 VDW =      952.1470  1-4 EEL =    12130.6482  RESTRAINT  =        0.0000
+ RM1ESCF =       12.5790
+ CMAP    =      219.1142
+
+--------------------------------------------------------------------------------
+   5.  TIMINGS
+--------------------------------------------------------------------------------
+
+|                Calc gb radii             91.47 (15.73% of Gen B)
+|                Calc gb diag             190.39 (32.74% of Gen B)
+|                Calc gb off-diag         299.57 (51.52% of Gen B)
+|             Gen Born time            581.44 (100.0% of Nonbo)
+|          Nonbond force            581.44 (93.89% of Force)
+|             QMMM setup                 0.26 ( 0.74% of QMMM )
+|             QMMM list build            0.24 ( 0.68% of QMMM )
+|             QMMM RIJ Eqns Calc         2.54 ( 7.16% of QMMM )
+|                   QMMM hcore QM-QM           0.63 (34.87% of QMMM )
+|                   QMMM hcore QM-MM           1.17 (65.12% of QMMM )
+|                   Other                      0.00 ( 0.02% of QMMM )
+|                QMMM hcore calc            1.80 ( 7.09% of QMMM )
+|                      QMMM GB Fock Terms         0.02 ( 0.26% of QMMM )
+|                      Other                      8.88 (99.74% of QMMM )
+|                   QMMM fock build            8.90 (40.42% of QMMM )
+|                   QMMM elec-energy cal       0.06 ( 0.29% of QMMM )
+|                   QMMM full matrix dia       8.08 (36.70% of QMMM )
+|                   QMMM pseudo matrix d       3.60 (16.36% of QMMM )
+|                   QMMM density build         1.37 ( 6.24% of QMMM )
+|                QMMM scf                  22.02 (86.61% of QMMM )
+|                QMMM GB energy             1.60 ( 6.30% of QMMM )
+|             QMMM energy               25.43 (71.80% of QMMM )
+|             QMMM QM-QM force           1.15 ( 3.25% of QMMM )
+|             QMMM QM-MM force           5.78 (16.31% of QMMM )
+|             QMMM Collate Forces        0.02 ( 0.04% of QMMM )
+|          QMMM                      35.41 ( 5.72% of Force)
+|          Bond/Angle/Dihedral        2.46 ( 0.40% of Force)
+|       Force time               619.31 (100.0% of Runmd)
+|    Runmd Time               619.31 (99.31% of Total)
+|    Other                      4.31 ( 0.69% of Total)
+| Total time               623.63 (100.0% of ALL  )
+
+| Number of list builds   :          0
+
+| Highest rstack allocated:          0
+| Highest istack allocated:          0
+|           Job began  at 14:58:06.890  on 04/14/2020
+|           Setup done at 14:58:07.005  on 04/14/2020
+|           Run   done at 15:08:30.522  on 04/14/2020
+|     wallclock() was called  210503 times
+
+|3D-RISM memory allocation summary
+|Type          Maximum        Current   
+|Integer       0.00000 GB     0.00000 GB
+|Real          0.00000 GB     0.00000 GB
+|Logical       0.00000 GB     0.00000 GB
+|Character     0.00000 GB     0.00000 GB
+|---------------------------------------
+|Total         0.00000 GB     0.00000 GB

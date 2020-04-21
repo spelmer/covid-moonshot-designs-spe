@@ -1,0 +1,65 @@
+<datawarrior-fileinfo>
+<version="3.3">
+<created="1586919253393">
+<rowcount="13">
+</datawarrior-fileinfo>
+<column properties>
+<columnName="idcoordinates2D">
+<columnProperty="parent	Structure">
+<columnProperty="specialType	idcoordinates2D">
+<columnName="FragFp">
+<columnProperty="parent	Structure">
+<columnProperty="specialType	FragFp">
+<columnProperty="version	1.2.1">
+<columnName="Structure">
+<columnProperty="specialType	idcode">
+</column properties>
+idcoordinates2D	FragFp	Structure	Name	Notes	Name_tmp	Residue Name	Smiles
+!B?`Bw@h`BmwvH__y?mpJH@oy?mwvw?Xa}bGvw@oy?	:UvjfzS_SwE1J3uB7N838J9I!Y_!12@V04F!F!VV40Y(B8I#1V#1#FB)20V0FF	f`qQ@@DJ@drlrj~gV|uPTEDP@@	SPE_0036	starting point - x0678	x0678	S36	O=C(CC1CCCCC1)Nc1cnccc1
+!B_`CW@h`Bu{vHoWx?upJH@gx?u{wW_Xb}bKwW@c^B_c|	:UvjfzS_SwE1J3uB7N838JOI!Y_!12@V04F!F!VV41Y#V#B8I#1V#1#FB)21V0kF	fhiq@@DJ|AIeYeUWSkAZhJBbb@@	SPE_0037		x0678_01	S37	Nc1cc(NC(CC2CCCCC2)=O)cnc1
+!B_`CW@h`Bu{vHoWx?upJH@gx?u{wW_Xb}bKwW@c^B_c|w_P	:UvjfzS_SwE1J3uB7N838JOI!Y_!12@V04F!F!VV41Y#V#B8I#1V#1#FB)20V0FF	fdyq@@DJ|CHhdhhdddciu`mTEAQTP@@	SPE_0038		x0678_02	S38	CNc1cc(NC(CC2CCCCC2)=O)cnc1
+!B_`CW@h`Bu{vHoWx?upJH@gx?u{wW_Xb}bKwW@c^B_c|w__z@	:UvjfzS_Sxj1J3vB7N838JOI40Y_!12@V04F!F!VV41Y!FV#B8I#1V#1#FB%10220V0FF	fleq@@DJ|CHhdhhdddcMNlEj`hJJh`@@	SPE_0039		x0678_03	S39	CN(C)c1cc(NC(CC2CCCCC2)=O)cnc1
+!Bo`BW@h`BesvHOY\Boe~H@ky_e{u~PI\}bCvHOY\Boi~W@ky__d@	:UvjfzS_SwE1J3uB7N838J9I!Y_!12@V04F!F!VV40Y(B8I#1V#1#FB)20V0FF	fbmI@@DF}DBSJsLjsy`nSGKUAPE@PP@@	SPE_0040		x0678_04	S40	O=C(CC1CCCCC1)Nc1cncc2ncncc12
+!B_`CW@h`Bu{vHo]\B_c~H@gx?uww~PM^}bKvHo]^B_m?W`gx??d@	:UvjfzS_SwE1J3uB7N838J9I!Y_!12@V04F!F!VV40Y(B8I#1V#1#FB)20V0FF	fbmq@@DF|AIeYfUY|pWIcej`hB`HH@@	SPE_0041		x0678_05	S41	O=C(CC1CCCCC1)Nc1cncc2ncccc12
+!B_`CW@h`Bu{vHo]\B_c~H@gx?uwvYhM^}bKvHoSoT_m?_Sgx?	:UvjfzS_SwE1J3uBEN93NJOI!Yh1012@kV5F!F!Va41Y#V#B8IV011V!112!kB)30V0Fk	fluq@@DF|AIeYfUYsA\gtVjBbJab`@@	SPE_0042		x0678_06	S42	O=C(CC1CCCCC1)Nc1c(cc[nH]2)c2cnc1
+!B_`CW@h`Bu{vHo]\B_c~H@gx?uwvYhM^}bKvHoSoT_m?_Sgx?	:UfzvzgrSxzQRdtEENsA8LdrALnc041@el2AP04F@acZ5FYFak0c!p0Q4VW102W1!W8FC01!F2!20W0FV	fluI@@DJMxBSJsLjsfByOhmUMSUUL`@@	SPE_0043		x0678_07	S43	O=C(CC1CCCCC1)Nc1cncn2nccc12
+!B_`CW@h`Bu{vHo]\B_c~H@gx?uwvYhM^}bKvHoSoT_m?_Sgx?	:UfzfzDrS:QT9tEENcQdTdMAHbcV056@t09L!N@cgZZ0YLak08V0J0I0V5108WW!W0FB$F2!@VV0FV	fluI@@DLMxBSJsLjsfByOhmUMUTsM@@@	SPE_0044		x0678_08	S44	O=C(CC1CCCCC1)Nc1cncc2nccn12
+!B_`CW@h`Bu{vHo]\B_c~H@gx?fZCW_]^}bKvHo]}NN}Q~wwx?	:UvjfzS_SwE1J3uBEN93NJtI!Yh1012@kV5F!F!Va41Y021V#B8IV011V!112!kB8$2!30V0Fk	fluI@@DJLDBSJsLjmfbyO`mTEPTqE@@@	SPE_0045		x0678_09	S45	O=C(CC1CCCCC1)Nc1c2nc[nH]c2cnc1
+!B_`CW@h`Bu{vHo]\B_c~H@gx?uwvYhM^}bKvHoSoT_m?_Sgx?	:UvjfzS_SwU1J3uBUN93NJtI!Yh1012@kV5F!F!ca51Y#V#B8IV013V!11220kB)30W0Fk	fluI@@DF}DBSJsLjsfByOhmTEDUCE@@@	SPE_0046		x0678_10	S46	O=C(CC1CCCCC1)Nc1c(cn[nH]2)c2cnc1
+!Bo`BW@h`BesvHOY\Boe~H@ky__dBWoY\}bCvHOY\BepJ~g{y_e{t	:UvjfzS_SwE1J3uB7N838J9I!Y_!12@V04F!F!VV40Y(B8I#1V#1#FB)20V0FF	fbmI@@DJLDBSJsLjmyhnRGKUAPE@PP@@	SPE_0047		x0678_11	S47	O=C(CC1CCCCC1)Nc1cncc2nccnc12
+							
+<hitlist data>
+<hitlistName="<selection>">
+<hitlistData="@`@">
+</hitlist data>
+<datawarrior properties>
+<columnFilter_Table="">
+<columnWidth_Table_Name="80">
+<columnWidth_Table_Name_tmp="80">
+<columnWidth_Table_Notes="80">
+<columnWidth_Table_Residue Name="80">
+<columnWidth_Table_Smiles="80">
+<columnWidth_Table_Structure="100">
+<currentRecord="0">
+<detailView="height[Data]=0.5;height[Structure]=0.5">
+<filter0="#string#	Residue Name">
+<filter1="#category#	Smiles">
+<formLayout_Form View="TableLayout,3,8.0,-1.0,8.0,15,8.0,-1.0,8.0,-1.0,8.0,-1.0,8.0,-1.0,8.0,-1.0,8.0,-1.0,8.0,-1.0,8.0">
+<formObjectCount_Form View="4">
+<formObjectInfo_Form View_0="Structure	structure	1, 1, 1, 7, full, full">
+<formObjectInfo_Form View_1="Name	textLine	1, 9, 1, 9, full, full">
+<formObjectInfo_Form View_2="Notes	textLine	1, 11, 1, 11, full, full">
+<formObjectInfo_Form View_3="Name_tmp	textLine	1, 13, 1, 13, full, full">
+<mainSplitting="0.70582">
+<mainView="Table">
+<mainViewCount="2">
+<mainViewDockInfo0="root">
+<mainViewDockInfo1="Table	center">
+<mainViewInFront0="true">
+<mainViewName0="Table">
+<mainViewName1="Form View">
+<mainViewType0="tableView">
+<mainViewType1="formView">
+<rightSplitting="0.64286">
+<rowHeight_Table="80">
+</datawarrior properties>
