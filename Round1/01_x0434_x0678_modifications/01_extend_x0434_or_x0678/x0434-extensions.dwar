@@ -1,6 +1,6 @@
 <datawarrior-fileinfo>
 <version="3.3">
-<created="1586919251141">
+<created="1587507385470">
 <rowcount="13">
 </datawarrior-fileinfo>
 <column properties>
@@ -14,19 +14,19 @@
 <columnName="Structure">
 <columnProperty="specialType	idcode">
 </column properties>
-idcoordinates2D	FragFp	Structure	Name	Notes	Name_tmp	Residue Name	Smiles
-!B?`Bw@h`BmwvH__y?mpJH@oy?mwvw?Xa}bGvw@oy?	joQl60OK0F48!28B!V08&1#46V040V)V!4!V040F#4V#1$41)VV0FF	f`qq@@DXTAIeYeU}Nmyj`@@@@@@	SPE_0024	starting point x0434	x0434	S24	O=C(Nc1ccccc1)Nc1cnccc1
-!B_`CW@h`Bu{vHoWx?upJH@gx?u{wW_Xb}bKwW@c^B_c|	joQl60OK0F48!28B!V080F$1#46V040V(1V!4V0V040F#4V#1$41)WV0kF	fhiI@@DXUxBSJsJjngVBuP@@D@@@	SPE_0025		x0434_01	S25	Nc1cc(NC(Nc2ccccc2)=O)cnc1
-!B_`CW@h`Bu{vHoWx?upJH@gx?u{wW_Xb}bKwW@c^B_c|w_P	joQl60OK0F48!28B!V080F$1#46V040V(1V!4V0V040F#4V#1$41)VV0FF	fdyI@@DXUxFQQIQQIIIGSkAZh@@BH@@@	SPE_0026		x0434_02	S26	CNc1cc(NC(Nc2ccccc2)=O)cnc1
-!B_`CW@h`Bu{vHoWx?upJH@gx?u{wW_Xb}bKwW@c^B_c|w__z@	jqQl60OK0F5c!29B!V080F04!1#46V040V(1V!JV0V040F#4V#1$41$1020VV0FF	fleI@@DXUxFQQIQQIIIFZ]XKU@@@QP@@@	SPE_0027		x0434_03	S27	CN(C)c1cc(NC(Nc2ccccc2)=O)cnc1
-!Bo`BW@h`BesvHOY\Boe~H@ky_e{u~PI\}bCvHOY\Boi~W@ky__d@	joQl60OK0F48!28B!V08&1#46V040V)V!4!V040F#4V#1$41)VV0FF	fbmi@@DXMzHDfUfYUgsA\fNVj@@@@@@@@	SPE_0028		x0434_04	S28	O=C(Nc1ccccc1)Nc1cncc2ncncc12
-!B_`CW@h`Bu{vHo]\B_c~H@gx?uww~PM^}bKvHo]^B_m?W`gx??d@	joQl60OK0F48!28B!V08&1#46V040V)V!4!V040F#4V#1$41)VV0FF	fbmI@@DXMxBSJsLjsy`nSGKU@@@@@@@@	SPE_0029		x0434_05	S29	O=C(Nc1ccccc1)Nc1cncc2ncccc12
-!B_`CW@h`Bu{vHo]\B_c~H@gx?uwvYhM^}bKvHoSoT_m?_Sgx?	zoQl60OK0F48!28B80W0N0F$91!46kV50V%601V!4V0V040FV014V!112!V41(1VV0Fk	fluI@@DXMxBSJsLjsfByOhmT@DABA@@@	SPE_0030		x0434_06	S30	O=C(Nc1ccccc1)Nc1c(cc[nH]2)c2cnc1
-!B_`CW@h`Bu{vHo]\B_c~H@gx?uwvYhM^}bKvHoSoT_m?_Sgx?	zrUtrtUxnK5x3NfQEC8V2c2da9LFC04146l0EAV4F@a8Z1FX0ao0cV0K8N0VW5V@W110_8F511!F2080VW0FV	flui@@DXT[pDfUfYUgLEr_QZjPfBhQ@@	SPE_0031		x0434_07	S31	O=C(Nc1ccccc1)Nc1cncn2nccc12
-!B_`CW@h`Bu{vHo]\B_c~H@gx?uwvYhM^}bKvHoSoT_m?_Sgx?	zrUtzdUUrF7xQHQAEC8XH9Pdg9H4CV0446t0C7V08@VBZV0V6Yo0@V2J8k0V55V4WW10W!41#F2!8VV0FV	flui@@DXX[pDfUfYUgLEr_QZjPjAdR@@	SPE_0032		x0434_08	S32	O=C(Nc1ccccc1)Nc1cncc2nccn12
-!B_`CW@h`Bu{vHo]\B_c~H@gx?fZCW_]^}bKvHo]}NN}Q~wwx?	joQl60OK0F48!28B80W0N0k$91!46kV50V%601V025V0V040FV014V!112!V49$2!1VV0Fk	flui@@DXTXHDfUfYU[MEr_AZh@`A`B@@	SPE_0033		x0434_09	S33	O=C(Nc1ccccc1)Nc1c2nc[nH]c2cnc1
-!B_`CW@h`Bu{vHo]\B_c~H@gx?uwvYhM^}bKvHoSoT_m?_Sgx?	zoQl60OK0F4N!28BN0W0N0k$91!46kV50V$8611V!4V0V040FV016V!11220V41(1VW0Fk	flui@@DXMzHDfUfYUgLEr_QZh@HBDB@@	SPE_0034		x0434_10	S34	O=C(Nc1ccccc1)Nc1c(cn[nH]2)c2cnc1
-!Bo`BW@h`BesvHOY\Boe~H@ky__dBWoY\}bCvHOY\BepJ~g{y_e{t	joQl60OK0F48!28B!V08&1#46V040V)V!4!V040F#4V#1$41)VV0FF	fbmi@@DXTXHDfUfYU[sQ\dNVj@@@@@@@@	SPE_0035		x0434_11	S35	O=C(Nc1ccccc1)Nc1cncc2nccnc12
+idcoordinates2D	FragFp	Structure	Name	Notes	Name_tmp	Smiles	Residue Name
+!B?`Bw@h`BmwvH__y?mpJH@oy?mwvw?Xa}bGvw@oy?	joQl60OK0F48!28B!V08&1#46V040V)V!4!V040F#4V#1$41)VV0FF	f`qq@@DXTAIeYeU}Nmyj`@@@@@@	SPE_0024	starting point x0434	x0434	O=C(Nc1ccccc1)Nc1cnccc1	S24
+!B_`CW@h`Bu{vHoWx?upJH@gx?u{wW_Xb}bKwW@c^B_c|	joQl60OK0F48!28B!V080F$1#46V040V(1V!4V0V040F#4V#1$41)WV0kF	fhiI@@DXUxBSJsJjngVBuP@@D@@@	SPE_0025		x0434_01	Nc1cc(NC(Nc2ccccc2)=O)cnc1	S25
+!B_`CW@h`Bu{vHoWx?upJH@gx?u{wW_Xb}bKwW@c^B_c|w_P	joQl60OK0F48!28B!V080F$1#46V040V(1V!4V0V040F#4V#1$41)VV0FF	fdyI@@DXUxFQQIQQIIIGSkAZh@@BH@@@	SPE_0026		x0434_02	CNc1cc(NC(Nc2ccccc2)=O)cnc1	S26
+!B_`CW@h`Bu{vHoWx?upJH@gx?u{wW_Xb}bKwW@c^B_c|w__z@	jqQl60OK0F5c!29B!V080F04!1#46V040V(1V!JV0V040F#4V#1$41$1020VV0FF	fleI@@DXUxFQQIQQIIIFZ]XKU@@@QP@@@	SPE_0027		x0434_03	CN(C)c1cc(NC(Nc2ccccc2)=O)cnc1	S27
+!Bo`BW@h`BesvHOY\Boe~H@ky_e{u~PI\}bCvHOY\Boi~W@ky__d@	joQl60OK0F48!28B!V08&1#46V040V)V!4!V040F#4V#1$41)VV0FF	fbmi@@DXMzHDfUfYUgsA\fNVj@@@@@@@@	SPE_0028		x0434_04	O=C(Nc1ccccc1)NC1=CN=CN2NC=CC=C12	S28
+!B_`CW@h`Bu{vHo]\B_c~H@gx?uww~PM^}bKvHo]^B_m?W`gx??d@	joQl60OK0F48!28B!V08&1#46V040V)V!4!V040F#4V#1$41)VV0FF	fbmI@@DXMxBSJsLjsy`nSGKU@@@@@@@@	SPE_0029		x0434_05	O=C(Nc1ccccc1)Nc1cncc2ncccc12	S29
+!B_`CW@h`Bu{vHo]\B_c~H@gx?uwvYhM^}bKvHoSoT_m?_Sgx?	zoQl60OK0F48!28B80W0N0F$91!46kV50V%601V!4V0V040FV014V!112!V41(1VV0Fk	fluI@@DXMxBSJsLjsfByOhmT@DABA@@@	SPE_0030		x0434_06	O=C(Nc1ccccc1)Nc1c(cc[nH]2)c2cnc1	S30
+!B_`CW@h`Bu{vHo]\B_c~H@gx?uwvYhM^}bKvHoSoT_m?_Sgx?	zrUtrtUxnK5x3NfQEC8V2c2da9LFC04146l0EAV4F@a8Z1FX0ao0cV0K8N0VW5V@W110_8F511!F2080VW0FV	flui@@DXT[pDfUfYUgLEr_QZjPfBhQ@@	SPE_0031		x0434_07	O=C(Nc1ccccc1)Nc1cncn2nccc12	S31
+!B_`CW@h`Bu{vHo]\B_c~H@gx?uwvYhM^}bKvHoSoT_m?_Sgx?	zrUtzdUUrF7xQHQAEC8XH9Pdg9H4CV0446t0C7V08@VBZV0V6Yo0@V2J8k0V55V4WW10W!41#F2!8VV0FV	flui@@DXX[pDfUfYUgLEr_QZjPjAdR@@	SPE_0032		x0434_08	O=C(Nc1ccccc1)Nc1cncc2nccn12	S32
+!B_`CW@h`Bu{vHo]\B_c~H@gx?fZCW_]^}bKvHo]}NN}Q~wwx?	joQl60OK0F48!28B80W0N0k$91!46kV50V%601V025V0V040FV014V!112!V49$2!1VV0Fk	flui@@DXTXHDfUfYU[MEr_AZh@`A`B@@	SPE_0033		x0434_09	O=C(Nc1ccccc1)Nc1c2nc[nH]c2cnc1	S33
+!B_`CW@h`Bu{vHo]\B_c~H@gx?uwvYhM^}bKvHoSoT_m?_Sgx?	zoQl60OK0F4N!28BN0W0N0k$91!46kV50V$8611V!4V0V040FV016V!11220V41(1VW0Fk	flui@@DXMzHDfUfYUgLEr_QZh@HBDB@@	SPE_0034		x0434_10	O=C(Nc1ccccc1)Nc1c(cn[nH]2)c2cnc1	S34
+!Bo`BW@h`BesvHOY\Boe~H@ky__dBWoY\}bCvHOY\BepJ~g{y_e{t	joQl60OK0F48!28B!V08&1#46V040V)V!4!V040F#4V#1$41)VV0FF	fbmi@@DXTXHDfUfYU[sQ\dNVj@@@@@@@@	SPE_0035		x0434_11	O=C(Nc1ccccc1)NC1=CNC=C2N=CC=CN12	S35
 							
 <hitlist data>
 <hitlistName="<selection>">
@@ -42,15 +42,15 @@ idcoordinates2D	FragFp	Structure	Name	Notes	Name_tmp	Residue Name	Smiles
 <columnWidth_Table_Structure="100">
 <currentRecord="0">
 <detailView="height[Data]=0.5;height[Structure]=0.5">
-<filter0="#string#	Residue Name">
-<filter1="#category#	Smiles">
+<filter0="#category#	Smiles">
+<filter1="#string#	Residue Name">
 <formLayout_Form View="TableLayout,3,8.0,-1.0,8.0,15,8.0,-1.0,8.0,-1.0,8.0,-1.0,8.0,-1.0,8.0,-1.0,8.0,-1.0,8.0,-1.0,8.0">
 <formObjectCount_Form View="4">
 <formObjectInfo_Form View_0="Structure	structure	1, 1, 1, 7, full, full">
 <formObjectInfo_Form View_1="Name	textLine	1, 9, 1, 9, full, full">
 <formObjectInfo_Form View_2="Notes	textLine	1, 11, 1, 11, full, full">
 <formObjectInfo_Form View_3="Name_tmp	textLine	1, 13, 1, 13, full, full">
-<mainSplitting="0.70582">
+<mainSplitting="0.70484">
 <mainView="Table">
 <mainViewCount="2">
 <mainViewDockInfo0="root">
