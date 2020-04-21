@@ -1,0 +1,13 @@
+O=C(Nc1cccnc1)Nc1ccccc1	SPE_0024
+O=C(Nc1cncc(c1)N)Nc1ccccc1	SPE_0025
+CNc1cncc(c1)NC(=O)Nc1ccccc1	SPE_0026
+O=C(Nc1ccccc1)Nc1cncc(c1)N(C)C	SPE_0027
+O=C(Nc1cncc2c1cncn2)Nc1ccccc1	SPE_0028
+O=C(Nc1cncc2c1cccn2)Nc1ccccc1	SPE_0029
+O=C(Nc1cncc2c1cc[nH]2)Nc1ccccc1	SPE_0030
+O=C(Nc1cncn2c1ccn2)Nc1ccccc1	SPE_0031
+O=C(Nc1cncc2n1ccn2)Nc1ccccc1	SPE_0032
+O=C(Nc1cncc2c1nc[nH]2)Nc1ccccc1	SPE_0033
+O=C(Nc1cncc2c1cn[nH]2)Nc1ccccc1	SPE_0034
+O=C(Nc1cncc2c1nccn2)Nc1ccccc1	SPE_0035
+	
