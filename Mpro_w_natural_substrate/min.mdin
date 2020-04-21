@@ -1,0 +1,5 @@
+minimize mpro
+ &cntrl
+  imin = 1, ncyc = 200, maxcyc = 1000,
+  ntb = 0, igb = 7, cut = 9999.0,
+ /
