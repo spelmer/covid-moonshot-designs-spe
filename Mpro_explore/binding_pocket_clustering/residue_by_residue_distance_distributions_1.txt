@@ -1,0 +1,30 @@
+### :142 1.361 different
+### :165       different (verified individually - MET)
+### :189 1.378 different
+### :45 1.343 different (one model has a flipped rotamer, but still in a slightly disordered region - THR)
+### :46 0.921 different (in a slightly disordered region - SER)
+### :49 1.221 different
+# :45,46,49,142,165,189 # I want to use :165 in the binding pocket clustering but some models have alternative coords in this residue, don't use
+
+
+### :140 0.127 same
+### :141 0.202 same
+### :143 0.083 same GLY
+### :144 0.123 same
+### :163 0.124 same
+### :164 0.140 same
+### :167 0.156 same
+### :168 0.130 same
+### :187 0.122 same
+### :24 0.216 same
+### :25 0.150 same
+### :26 0.136 same
+### :27 0.129 same
+### :44 0.171 same
+### :188 1.168 different (definitely different, but only backbone atoms contribute to binding pocket - ARG)
+### :190 1.322 different (one model has different rotamer, but only backbone atoms contribute to binding pocket - THR)
+### :119 1.117 same (one model has a flipped amide - ASN)
+### :192 0.381 same
+### :145 0.689 different (one model has a different rotamer - CYS*)
+### :166 1.158 different (one model has a different rotamer - GLU)
+### :41 1.363 different (one model has different rotamer, other models have flipped HIS rings - HIS)

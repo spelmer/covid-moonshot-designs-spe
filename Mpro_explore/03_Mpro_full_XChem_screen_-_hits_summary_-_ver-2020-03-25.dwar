@@ -1,0 +1,194 @@
+<datawarrior-fileinfo>
+<version="3.3">
+<created="1586458383454">
+<rowcount="91">
+</datawarrior-fileinfo>
+<column properties>
+<columnName="SmilesFragFp 2">
+<columnProperty="parent	Structure of Compound SMILES">
+<columnProperty="specialType	FragFp">
+<columnProperty="version	1.2.1">
+<columnName="SmilesFragFp">
+<columnProperty="parent	Structure of Modified Compound SMILES">
+<columnProperty="specialType	FragFp">
+<columnProperty="version	1.2.1">
+<columnName="Structure of Compound SMILES">
+<columnProperty="specialType	idcode">
+<columnName="Structure of Modified Compound SMILES">
+<columnProperty="specialType	idcode">
+</column properties>
+SmilesFragFp 2	SmilesFragFp	Crystal ID	Library Name	Structure of Compound SMILES	Compound SMILES	Structure of Modified Compound SMILES	Modified Compound SMILES	CompoundCode	Status	PDB ID	Site	initial occupancy estimate	peak-height z-value	Map Resol	Confidence annotation	Notes
+zxUlIWNFd04!40@2!VV80V)44$28!F!9$4!V%1-W042&W0F0		Mpro-x0072	DSIpoised_DMSO	dknD`La@BLddNRbRtujh@@@@	CS(=O)(=O)NCCC=1C=CC=CC1			Z45617795	Deposited	5R7Y	A - active	0.4	4.24	1.66	4 - High Confidence	
+zxUnrYtGtN401J2DH80lXN0H!F0c3!BHmX50X030F1601!@1!V4ol@4154Y!1021Z0L!81!4080V8FV		Mpro-x0104	DSIpoised_DMSO	f`qQB@AF\BPrJIJYPiJTXJT@EMTq@@@	CC(=O)NCCC1=CNC=2C=CC(F)=CC12			Z1220452176	Deposited	5R7Z	A - active	0.78	5.07	1.61	2 - Correct ligand, weak density	
+yJPl619G0F4!F2!8#N&11#2VV5+V(40FV010V)4)10V0FF		Mpro-x0107	DSIpoised_DMSO	dmuH@DdDf^YYUj@`@@	CC(=O)NC=1C=NC=CC1C			Z1129283193	Deposited	5RE4	A - active	0.36	3.77	1.93	4 - High Confidence	
+yJup448G8V0F4120FF05082V&9#F#882F#8V%424F!1$Fc(g&F0110V0		Mpro-x0161	DSIpoised_DMSO	dg^B`LaML@cIIKDeeLLkP@SP@@	COC(=O)C=1C=CC(=CC1)S(=O)(=O)N			Z18197050	Deposited	5R80	A - active	0.86	5.92	1.98	4 - High confidence	
+zrUtzdUUrKzhQ@@QE7Bk3fc968245VF86Dc063k5!32V!X64J104848BF0V5c@!104!401&VVV0F0		Mpro-x0165	DSIpoised_DMSO	f`qq@@DXtAIfUYuQZmyjj``b@@@	CN1CCN(CC1)C(=O)NC=2C=CC=CC2			Z2856434890	Deposition ready		X - xtal contact - S81	0.38	 6.87	 2.27	2 - Correct ligand, weak density	
+:UvzfzUrSzjQT@vE5RkAfc9M8e__VF8DEg063k5801XV!Y64J104848DJ225c@0J1#4401$8VVWV0k0		Mpro-x0177	DSIpoised_DMSO	fdyp`@DXb@JSLjsj|KUoMUTDDM@@@	NC(=O)C1CCN(CC1)C(=O)NC=2C=CC=CC2			Z33545544	Deposited	5RE5	X - xtal contact - H80	0.38	4.26	2.09	2 - Correct ligand, weak density	
+yJul619G0k4!F20F$8&108202V040V02&V&F40F#4VF08F!V04!2(V0FF		Mpro-x0194	DSIpoised_DMSO	fhip`@DFlARSOJzrhi^Bu@AP@@@@	CC(=O)NC=1C=CC(OC=2N=CC=CN2)=CC1			Z54571979	Deposited	5RE6	X - xtal contact - H80	0.36	5.32	1.91	4 - High Confidence	
+:UO39tG9F5k04@EHN01XN0m64!W39!FLV10X829F108W!@GV4210W0c12B3FV!82404c18401470110V0		Mpro-x0195	DSIpoised_DMSO	foAPb@LR``@QddebRfbPeV\m@DUQ@@@	CN1CCCC=2C=CC(=CC12)S(=O)(=O)N			Z1367324110	Deposited	5R81	A - active	0.41	5.49	1.98	4 - High Confidence	2.869A distance between :163@NE2 and :LIG@N07<NL>3-pyridine<NL>strong building block<NL>
+uJPG219G0F4#2&8&108*2/!F(8%4%2$VVFF		Mpro-x0305	DSIpoised_DMSO	dmw@@@hTee]V{`@j@@	CCNC=1C=CC(C#N)=CN1			Z219104216	Deposited	5R82	A - active	0.5	5.58	1.47	4 - High Confidence	
+yoPlLWOG8F4F0F20FF0G082V&9#l2#82GV!8V%52#8%FV(c&F01W0k0		Mpro-x0336	DSIpoised_DMSO	do}L`LvDl@cIIKDedeAeZ@Bi`@@	CC(=O)NCC=1C=CC(=CC1)S(=O)(=O)N			Z30932204	Deposited	5RE7	X - xtal contact - W31	0.59	6.01	1.79	2 - Correct ligand, weak density	
+zpzpn_OStk4R5!@@R8J282PV0F080Z!2G018!1F08421!W!cV04#F01#1!2#10V0F%V8FV		Mpro-x0350	DSIpoised_DMSO	foAaB@AZAHYEDeBdheQegP@UTtH@@	FC=1C=CC=C(CNCC2=CC=CO2)C1			Z2737076969	Deposited	5RE8	X - xtal contact - K12-D33	0.5	4.97	1.83	4 - High Confidence	
+zrzxzdUSzpxxUN@QU38F38e96A205Vh@0cc2@22523aX#204F1l0k88BFGV!2F82$10WX!401X%		Mpro-x0354	DSIpoised_DMSO	fdyP`@DJ@qIfUWe_DkpVjjhHB`@@	CN1CCN(CC1)C(=O)COC=2C=CC(C)=CC2			Z2856434836	Deposited	5RE9	A - active	0.58	4.27	1.73	2 - Correct ligand, weak density	
+;tzdzOzkxnQJAEGO0l2NDH4022_V9@B4zX1!1AI020FY!2FV4XKm1842@80Fd820H4080V204F0F&		Mpro-x0376	DSIpoised_DMSO	fdea`@D@]GHhhhdddiUkqkAbuPTEQQP@@	O=C(N1CCCCCC1)C=2C=CC=3OCOC3C2			Z31432226	Deposited	5REA	X - xtal contact - R279	0.52	4.50	1.66	2 - Correct ligand, weak density	
+;jv:crUtHQgpG090m4Ce0F0J2c!NBQS0W109!G@%2%JF6J230F11120F81%2#V0201V		Mpro-x0387	DSIpoised_DMSO	dk^H`FL@aJUvU|I]iZjjh@@	OC1CCN(CC=2C=CSC2)CC1			Z2856434899	Deposited	5REB	A - active	0.3	6.65	1.72	2 - Correct ligand, weak density	
+zpzlIWOK9F4R!2DDN0W2N2c!F0930246GV50X!FV86!V0X509!68FV117W!112#48!102!4VX0GV		Mpro-x0390	DSIpoised_DMSO	fdeq@@AJtCHhhdbhdddsakAc@PTu@@@@@	OC=1C=CC=CC1CNC2=NC=3C=CC=CC3N2			Z1587220559	Deposited	5REC	D - surface - E240	0.36	5.10	1.76	4 - High Confidence	
+vzUdvdUBrKxSQ41ODE8kA9PdX1H28049THS0190CF0JeZ!X0X88eV040F0201F0112!8F!1!F#80180V		Mpro-x0395	DSIpoised_DMSO	dg@PLk`BCdLdTTqbRfUmtsUUM@@	CC1=NN=C(CN2CCC=C(F)C2)S1			Z1619978933	Deposition ready		A - active	0.5	 6.54	 1.72	2 - Correct ligand, weak density	
+;j:QDrorwzT9OEC8ZF9ugV9H58!5ZIp09D0_F0k80140H2P0NW0J0R0V1FFW11#8FF*VWFFV		Mpro-x0397	DSIpoised_DMSO	foAp`@DXT@vQQQKQPkBdZsUUSST@@	CN(CC=1C=C(C)ON1)C(=O)NC2CC2			Z369936976	Deposition ready		A - active	0.42	 6.77	 1.57	2 - Correct ligand, weak density	2.807A distance between :163@NE2 and :LIG@N09<NL>isoxazole<NL>interesting because it goes under :142 and over :145<NL>isoxazole moiety is interesting but the rest of the fragment likely interferes with where the electrophilic group will go
+zrzSv9UOKpx1M02Q230F388022!50Vc088#29#X#2(880FG$F02&1V%X%		Mpro-x0398	DSIpoised_DMSO	foAaB@AN@DISJkvoIV]PPQUQ@@@	C(CN1CCOCC1)SC=2C=CC=CC2			Z2856434865	Deposited	5RED	X - xtal contact - E178 	0.6	5.56	1.55	2 - Correct ligand, weak density	
+;UvAzQM:YSDPQW3qHIfd0yZ2VpcFc81BGFWG!V1V#2BGH504888L62H$4014F04F!V231V%F		Mpro-x0425	DSIpoised_DMSO	foQq@@NJlAJUm^UpS`kNjjj@BbFB@@	C1CC2(CCN(C2)C=3C=NC=CN3)CO1			Z1401276297	Deposition ready		D - surface - K97	0.72	 4.33	 1.52	2 - Correct ligand, weak density	
+zwUlLWOGdF4F0J0D0N0l0N2%83!B4l21$FF820V!25!V4k0N#2!c1&1*V8FF		Mpro-x0426	DSIpoised_DMSO	fdyQB@AQxBPrJJIQGIQILdFLDCEP@@@@	FC=1C=CC=CC1C(=O)NCCC=2C=CN=CC2			Z1310876699	Deposition ready		A - active	0.62	 5.79	 1.52	4 - High confidence	2.992A distance between :163@NE2 and :LIG@N16<NL>4-pyridine<NL>only interesting part is the 4-pyridyl moiety (rest pokes up into the solvent, and disrupts :142)
+joQl60OK0F48!28B!V08&1#46V040V)V!4!V040F#4V#1$41)VV0FF		Mpro-x0434	DSIpoised_DMSO	f`qq@@DXTAIeYeU}Nmyj`@@@@@@	O=C(NC=1C=CC=CC1)NC=2C=CC=NC2			Z44592329	Deposited	5R83	A - active	0.84	6.35	1.61	4 - High confidence	2.955A distance between :163@NE2 and :LIG@N15<NL>3-pyridine<NL>strong building block<NL>
+:rUvUruUUvIvyp3Vn_PShE4uF6AaFV8d9C2V!14L021H89012!BVc!JHH#I42#18080F!V0V02010		Mpro-x0464	DSIpoised_DMSO	foAa@@B@rJJIRjIIgKNjjj@B@@@	CC1C(O)CCCN1CC=2C=CC=CC2			Z2217052426	Deposited	5REE	D - surface - E240	0.36	6.24	1.80	4 - High Confidence	
+yJup648G8V4F412!F05082m$1$2F040c81F#9WV#V!4J!1#V0c#2404Z!2#4!W0F0		Mpro-x0478	DSIpoised_DMSO	do~B`LaCl@cIIChdihYuZ`BF`@@	COC(=O)C=1C=CC=C(NS(=O)(=O)C)C1			Z24758179	Deposited	5REF	X - xtal contact - F294	0.35	5.58	1.62	4 - High Confidence	
+=r:tvizbqDeUpcC2E29Wc9K_chV03l0Z0mF2W1FV6VW7!4Z6V5B!105cFcB9!V04!VV04V101V0k0		Mpro-x0499	DSIpoised_DMSO	fhiQ`@DRAjrS\kk\oA^Bt@EMUE@t@@	NC(=O)C=1C=CC(NC(=O)[C@@H]2CCCO2)=CC1			Z1545313172	Deposited	5REG	X - xtal contact - R105	0.46	5.24	1.70	2 - Correct ligand, weak density	
+:UvzvzwrSwEvwWPBb8cA8JCk31AZ!1bBV!20VF0F0V041F14!V#N%V&G81(2VV0FF		Mpro-x0540	DSIpoised_DMSO	fdyq@@DXbAIeYU^uTXLVjjj`@`@@	O=C(NCCC=1C=CN=CC1)NC2CCCCC2			Z111507846	Deposited	5REH	A - active	0.48	4.84	1.80	4 - High Confidence	3.019A distance between :163@NE2 and :LIG@N09<NL>4-pyridine<NL>only interesting part is 4-pyridyl; rest sticks up into solvent and disrupts :142
+zrzSv9IOSo9FK01I0G0F18@HV!240Xc089%1F020F1!1)FF$G2202%V%V%		Mpro-x0669	DSIpoised_DMSO	dg~H`AlHcHhdhUDeSG\@EUTP@@	ClC=1C=CC=C(CN2CCOCC2)C1			Z2856434856	Deposited	5REI	X - xtal contact - E178 	0.24	6.15	1.82	2 - Correct ligand, weak density	
+:UvjfzS_SwE1J3uB7N838J9I!Y_!12@V04F!F!VV40Y(B8I#1V#1#FB)20V0FF		Mpro-x0678	DSIpoised_DMSO	f`qQ@@DJ@drlrj~gV|uPTEDP@@	O=C(CC1CCCCC1)NC=2C=CC=NC2			Z31792168	Deposited	5R84	A - active	0.78	5.83	1.83	4 - High Confidence	2.719A distance between :163@NE2 and :LIG@N15<NL>3-pyridine<NL>strong building block
+zrUdztUgrKxxvstOEj8mE8ehiAM@8V6O7et2A20hN2aeZ902VZF9u!J0BF0V14aW32!8G1V1F2F#X01!V	zrUdztUgrKxxvstOEj8mE8ehiAI@8V4O7et2A20hN2aeZ902VZF9u!J0BF0V14aW12!8G1V1F2F#X01!V	Mpro-x0689	CovLibrary	fdyQc@BRqhpHaPPxHrISQIYRFIBdFMMUTmMR@@	ClCC(=O)N1CCN(CC1)S(=O)(=O)c2cccs2	fhiQa@LV`cp@c`QddabbRRjbkZLmUMUSR@@	CC(=O)N1CCN(CC1)S(=O)(=O)c2cccs2	PCM-0102241	Deposited	5REJ	B - active - covalent	0.36	5.86	1.75	4 - High Confidence	
+zrUtztUxrKxtvsvQEn8IE8eni87@5V6N0ct2220h8H6X0OW2V5FW206F8BF0V046W2202411c1F2$X018!	zrUtztUtrJCltkvQ3l0IE8emi03@5V0N08t22!g8H0X0OW2V1FW206F8BF0V046W0202410c102$V018!	Mpro-x0691	CovLibrary	fbuQc@BRqhpHaPPfPrISQIYRFIJBeGMMUTl@Q@@@	Fc1cccc(c1)S(=O)(=O)N2CCN(CC2)C(=O)CCl	fleQa@LV`bH@ataddabbRRtqbkF|mTEAQM@@@	Fc1cccc(c1)S(=O)(=O)N2CCN(CC2)C(=O)C	PCM-0102327	Deposited	5REK	B - active - covalent	0.35	3.80	1.76	4 - High Confidence	
+zrUtzdURzKxtQN9QEI8FA8eIa8224V680cd222059H6X0F1205F1!2!BF0V!212202!101&X%	zrUtzdQNzJCkOF9Q3G0FA8eHa0224V0808d22!49H0X0F1201F1!2!BF0V!210202$1&V%	Mpro-x0692	CovLibrary	fdyQB@BRpBHRVyWVUaR|Ffjj`@h@@	Cc1cccc(CN2CCN(CC2)C(=O)CCl)c1	fhiQ@@DB@dsZzrmpSoMUUP@T@@@	Cc1cccc(CN2CCN(CC2)C(=O)C)c1	PCM-0102340	Deposited	5REL	B - active - covalent	0.33	4.64	1.66	2 - Correct ligand, weak density	
+zrUtzdURzKxtQN9QUI8GA8e1a8224VE80ct222058I6X0FV205F1426F0BF0V!2d22$101F$FX%		Mpro-x0705	CovLibrary	flePb@BRqhDPdmrnwJxiAcSUUL@E@@@	Cc1ccc(cc1)C(=O)N2CCN(CC2)C(=O)CCl			PCM-0102962	Deposition ready		B - active - covalent	0.6	 8.89	 1.77	2 - Correct ligand, weak density	
+zxUYrYyBl9JUIF08DC8c2869V3F080606Hl01Q0B!q8Z#FXc0eV0JF!85GH0V3!104F$F#80W0FV		Mpro-x0708	CovLibrary	fhiPa@BTqpDQHHRVunUUt[pZZffji`@@	ClCC(=O)NNC(=O)c1cc2CCCCc2s1			PCM-0102142	Deposition ready		B - active - covalent	0.48	 6.52	 1.92	2 - Correct ligand, weak density	
+zrUtztUxzKxtvsvQUn8IE8eWi87@5VEN0ct2220h@I6X0OV2V5F1626F8BF0V046W@2#11c1F2#FX01#		Mpro-x0731	CovLibrary	fbuQa@BRqhpHaPQdRfbRrdLRVEJJZZjiX@J@@@	Cc1ccc(cc1)S(=O)(=O)N2CCN(CC2)C(=O)CCl			PCM-0102759	Deposition ready		B - active - covalent	0.56	 7.99	 1.87	2 - Correct ligand, weak density	
+zrUtzdUSrKxtQN@UEQ8G3NcW6B20CW680ssX32X50@6f68V206G1#88Bk9V6G2V329!VK81010140X03#	zrUtzdQOrJCkOF@U3N0G3NcV64209W080NsX30X40@0f68V202G1#88Bk9V6G2V129!VJ81010140V03#	Mpro-x0734	CovLibrary	fleqbBBRm`LPQEicrRwJ{LlbeyMMUTDCD@@@	[O-][N+](=O)c1ccccc1N2CCN(CC2)C(=O)CCl	fdyq`BHL\A@XRcdfyeg_XVkNZBBbjX`@@	[O-][N+](=O)c1ccccc1N2CCN(CC2)C(=O)C	PCM-0103016	Deposited	5REM	B - active - covalent	0.25	5.41	1.97	2 - Correct ligand, weak density	
+zrzhzhUBrpxxUN9OEE8JA8e9aAH28Va92et2A@05N2aeZ2020ZF9u0VJ0BFFV102l32!8F101k0F4!X$V		Mpro-x0736	CovLibrary	fhiQb@BRqjpHaI[e]nTToAijjffi@@	ClCC(=O)N1CCN(CC1)C(=O)c2occc2			PCM-0102248	Deposition ready		B - active - covalent	0.36	 7.74	 1.77	1 - Low Confidence	
+:UvzfzUrS:QTPECERvQv9dg8mZhWLBTfwe53l98@56aV2Vann0@Z2Z8so2M1d42b32G04588F#8Vu4#V	:UvzfzUrOzjQTPECCRvPQ9dg8mZhWF8Tfwe50l98@16aV2Vann0@Z2Z8so2M1d42_32G!488F$Vs4#V	Mpro-x0749	CovLibrary	fluQA@BFpBHtDIK\k]jjIUgQSSUUSPAACa@@	ClCC(=O)N1CCCC(C1)c2nc3ccccc3s2	fdeQB@JFB@HRfY^]{lTEjwjA`hjfb`r`@	CC(=O)N1CCCC(C1)c2nc3ccccc3s2	PCM-0102425	Deposited	5REN	B - active - covalent	0.37	5.33	2.20	4 - High Confidence	
+zpzlLWOK9k4N0F2DRN0k0N2HV#10E244YX1#3GZ#1!30V5VG218!880F0@!2$V204F0F!V0F0	zovlLWOG8k4F0F2BFN0k0N2H$109244YX1#3GV#1!20V5VG218!880F08!2$V204F0F!V0F0	Mpro-x0752	CovLibrary	foAab@BXtxDPdmkJvjMYuMPAED@@	ClCC(=O)NCc1ccc2OCOc2c1	dg~L@DA[RYvUmgSmj`BJH@@	CC(=O)NCc1ccc2OCOc2c1	PCM-0102578	Deposited	5REO	B - active - covalent	0.37	4.37	1.91	2 - Correct ligand, weak density	
+zrUtztUxrKxtvsvUEv8IENeni87@CW6N0ctX320h8H6e2OV2V7G1206F8Bk0V246W32#91c1F2$m018!	zrUtztUtrJCltkvU3t0IENemi03@CW0N08tX3!g8H0e2OV2V3G1206F8Bk0V246W12#90c102$k018!	Mpro-x0755	CovLibrary	fjmQ``BRqhpHaPPFPSHYDihdliCEELJVRtuURpQA@@@	Fc1cccc(F)c1S(=O)(=O)N2CCN(CC2)C(=O)CCl	fbuQc@L^`aH@cTaZPrRPqQIQQDzJ|xJuPUDQM@@@	Fc1cccc(F)c1S(=O)(=O)N2CCN(CC2)C(=O)C	PCM-0102201	Deposited	5REP	B - active - covalent	0.36	4.57	1.86	4 - High Confidence	
+>U:pztzTsQUn8onhA5gB2N4VjgRCh223058IML0X205GJ04Z2V48OHF!2HX61402150Z01FVFX!8!	>UvzojkzTsQIn0onCA4g42N4VdcBCh221058IGH0X205GJ04Z2V48OHF!2HV61402050Z01FVFV!8!	Mpro-x0759	CovLibrary	fhi`a@BXdBHCHYDihdhXdlJSoTuUP@TPyP@	Fc1ccc(cc1)C2CN(CCO2)C(=O)CCl	f`q`b@MB\BPRYWYUzcMF`@jjfJGB@@	Fc1ccc(cc1)C2CN(CCO2)C(=O)C	PCM-0102615	Deposited	5RER	B - active - covalent	0.4	5.59	1.91	4 - High Confidence	
+zrUtztUxrKxtvsvUEv8IENeWi87@CW6N0ctX320h8H6e2OV2V7G1206F8Bk0V246W32#11c1F2$m018!	zrUtztUtrJCltkvU3t0IENeVi03@CW0N08tX3!g8H0e2OV2V3G1206F8Bk0V246W12#10c102$k018!	Mpro-x0769	CovLibrary	fbuQc@BRqhpHaPPFPrISQIYRFJKBdgMMUTlDA@@@	Fc1ccccc1S(=O)(=O)N2CCN(CC2)C(=O)CCl	fleQa@LN`bH@cTaddabbRbQvbgV|mTEPQM@@@	Fc1ccccc1S(=O)(=O)N2CCN(CC2)C(=O)C	PCM-0102281	Deposited	5RES	B - active - covalent	0.41	5.28	1.99	4 - High Confidence	
+zrUtzdUSzKxtQN9QEI8FA8eIa8224V680cd222059H6X0F1205F1!2!BF0V!212202!101&X%	zrUtzdQOzJCkOF9Q3G0FA8eHa0224V2808d22!49H0X0F1201F1!2!BF0V!212202$1&V%	Mpro-x0770	CovLibrary	fdyQA@AV|BHcDYEDeBhdlijLMZ@Bjjfb@@	ClCC(=O)N1CCN(Cc2cccc(Cl)c2)CC1	fhiQB@AV|BHrJIJEQIYRcCV`@jjib@@	CC(=O)N1CCN(Cc2cccc(Cl)c2)CC1	PCM-0102269	Deposited	5RET	B - active - covalent	0.33	4.23	1.83	2 - Correct ligand, weak density	
+zrUtztUxzKxtvsvUUv8IENeni87@CYEN0cvX320hAI6e2OV2V5F1626F9Bk0V246W@2#13c1F6#Fm01#		Mpro-x0771	CovLibrary	fjmQa@BRqhpHaPQdRfbRrdLTRHiIsSUUK@PT@@@	Cc1ccc(c(C)c1)S(=O)(=O)N2CCN(CC2)C(=O)CCl			PCM-0102628	Deposition ready		B - active - covalent	0.58	 6.11	 2.02	2 - Correct ligand, weak density	
+zrUtztUxzKxtvsvUEv8IENeWi87@CY6N0ctX320h8H6e2OV2V5F1206F8Bk0V246W22#11c1F2$m01V!	zrUtztUtzJCltkvU3t0IENeVi03@CY0N08tX3!g8H0e2OV2V1F1206F8Bk0V246W02#10c102$k01V!	Mpro-x0774	CovLibrary	fjmqa@BRscQ`QB`cHeMDeeHXhdaRRVfjjVBCH@@	ClCC(=O)N1CCN(CC1)S(=O)(=O)c2ccccc2C#N	fbuqb@LN}ABPAFRRFJIJIYXqSkAVjBhKIh@@	CC(=O)N1CCN(CC1)S(=O)(=O)c2ccccc2C#N	PCM-0102395	Deposited	5REU	B - active - covalent	0.31	5.83	1.69	4 - High Confidence	
+zrUtzdQSxJCsGFAQEG0G38@HZ!25V680@t260XB1H020FWV01FV!4J08F!4V2d2302404(4V0V0F0	zrUtzdQSxJCsGFAQEG0G38@HZ!25V680@t260XB1H020FWV01FV!4J08F!4V2d2302404(4V0V0F0	Mpro-x0786	CovLibrary	flePa@BVpXDPdHrISJIJZFIJVhiih@ajjH@@	ClCC(=O)Nc1cccc(c1)C(=O)N2CCSCC2	flePa@BVpXDPdHrISJIJZFIJVhiih@ajjH@@	ClCC(=O)Nc1cccc(c1)C(=O)N2CCSCC2	PCM-0103072	Deposited	5REV	B - active - covalent	0.24	5.77	1.62	2 - Correct ligand, weak density	
+:UvLtOJ9F4sVFO6BF0FV8H6Z40F0261V0W2#V1Fo&1!1#Z80V#V024#8,V0F0	yyPvLlOF8F4kVF940F0FV8H2040F02!V0W2#V1Fk*1#Z80V&4#8,V0F0	Mpro-x0820	CovLibrary	fhiaB@BXADYDieEMDhbZw`tuP@@@PiP@	CC(NC(=O)CCl)c1cccc2ccccc12	f`qa@@D@rJKQSQJHzL{sUP@@@PIP@	CC(NC(=O)C)c1cccc2ccccc12	PCM-0102275	Deposited	5REW	B - active - covalent	0.26	6.71	1.66	2 - Correct ligand, weak density	
+zrUtzdURzKxtQN9UEI8FA8e3a8224X680cd222059H6X0F0205F1!2!BF0V!2122#8101&X%	zrUtzdQNzJCkOF9U3G0FA8e2a0224X0808d22!49H0X0F0201F1!2!BF0V!2102#8!1&V%	Mpro-x0830	CovLibrary	fj}QB@BRpBHrISQIYJJIQDT`qrVfjj`@@H@@@	ClCC(=O)N1CCN(Cc2cccc3ccccc23)CC1	fbmQ@@DBAdTTrVRbbTQxKpTyZjj`@@H@@@	CC(=O)N1CCN(Cc2cccc3ccccc23)CC1	PCM-0102287	Deposited	5REX	B - active - covalent	0.4	4.96	2.09	2 - Correct ligand, weak density	
+:UtzdURzKxtQROUEQ8HA8e1i822Bb68NVh22f058H6e0F22V5F1202V0B02V20612204!121&F8$	:UtzdUNzJxlQROU3Q0HA8e0i022Bb0880h22d058H0e0F22V1F1202V0B02V20610204#21&F8$	Mpro-x0831	CovLibrary	fleQB@BRpBHRVyU]fVRhiijjj@``@@	Cc1ccccc1CN2CCCN(CC2)C(=O)CCl	fdyQ@@DB@dsZklrbdFKUUU@PP@@	Cc1ccccc1CN2CCCN(CC2)C(=O)C	PCM-0102911	Deposited	5REY	B - active - covalent	0.43	5.43	1.99	4 - High Confidence	
+zvTfgYy6WCua1J9V3EG81AJ0lFNbck!2Ik83J0@F8l!4@502240V0JF30V10@10K8F080N08%V01!VV		Mpro-x0874	Probing fragment all	dk^H`Ct@aJUyelJUiZjfiJcP@	O=C([C@@H]1[C@H](C2=CSC=C2)CCC1)N			POB0129	Deposited	5REZ	A - active	0.28	6.44	1.82	4 - High Confidence	
+xvqUc@oH5@@X!82W0qc0@40J40VFc#40G&F0FV!8!4%F$2$10G2,201F		Mpro-x0887	Probing fragment all	dk^H@FCHeHhddQgSjhJ@`@@	OCC1(C2=NC=CC=C2)CCCC1			POB0073	Deposited	5RF0	C - dimer - K137	0.26	5.65	1.66	4 - High Confidence	
+aFPF!81#F!20FF01080V+F$82$8V%42+V(c)114V0		Mpro-x0946	Probing fragment all	dmvDPEFPqNBDfUvjZ@BV@@	BrC1=CC=C(S(N)(=O)=O)C=C1			NCL-00023830	Deposited	5RF1	A - active	0.45	7.64	1.82	4 - High Confidence	
+;vzvvzxNiwlqdeUZ8kq@H8199UVVC2g5W284HZ01o!FJ12840lV0W48BWV0@!40V$1X488F01!XZG0		Mpro-x0967	Probing fragment all	fbeQb@BBX[HLSHddihdhhTmEMuMUL@DPxP@	CC(=O)NC(Cc1ccc(cc1)O)C(=O)NCC#CBr			NCL-00024905	Deposited	5RG1	A - active	0.58	6.41	1.66	4 - High Confidence	3.052A distance between :163@NE2 and :LIG@O2<NL>tyrosyl<NL>not super interested in the tyrosyl group. It is interesting that it is a hit, but pyridyl groups have fewer liabilities
+;j;irTiwlqhsjZCkL7H81O9UXkZ1c1W@c4FaF0ZF9XR160V0k0VW4A4kV08!40Z!F!4102VV#XZG0		Mpro-x0978	Probing fragment all	do]L`BEmlLQIU[efnijjYNdp@	C[C@H](O)[C@H](NC(=O)C)C(=O)NCC#CBr			NCL-00025058	Deposited	5RG2	B - active - covalent	0.58	7.42	1.66	3 - Clear density, unexpected ligand	
+:UfzvzipSiwlqdcEa8kM2H8W99UVV40y1W@@4FZF0a#L12!8kV0W6A4VZ08!40V)8#81VZk0		Mpro-x0981	Probing fragment all	f`~qb@BB|ps`XbRjwJsWTuTsPxP@	CC(NC(CC(N)=O)C(NCC#CBr)=O)=O			NCL-00025412 	Deposited	5RG3	B - active - covalent	0.56	5.26	1.61	3 - Clear density, unexpected ligand	
+tNPV0104%J.1!2/-F/%2#1F0c0	tNPV0104%J.1//0F/%2#1F0c0	Mpro-x0991	Probing fragment all	gFTHIaDHK[T@@	Cl.CCC(=N)N	gJT@@dfvh@	CCC(=N)N	Z1741969146	Deposited	5RF2	A - active	0.21	5.84	1.57	4 - High Confidence	
+0F@F#1.8//(F.4*1!VF		Mpro-x0995	Probing fragment all	gO|@AfeJih@P@@	NC=1C=NC=NC1			Z1741970824	Deposited	5RF3	A - active	0.3	7.07	1.52	4 - High Confidence	2.918A distance between :163@NE2 and :LIG@N2<NL>3,5-pyrimidine<NL>somewhat interesting, but the second endocyclic nitrogen is located where an attachment point belongs, stick with pyridyl<NL>one other interesting observation is the exocyclic amine interacts with :166 quite nicely
+4FeF#1.8//(F/+201F		Mpro-x1002	Probing fragment all	gOy@DDfUk`@@@	OC=1C=CC=CN1			Z1741982125	Deposited	5RF4	X - xtal contact - K12-D33	0.22	4.88	1.62	2 - Correct ligand, weak density	
+:lb0q0X&1$V04FV/08%9F/,V!2&2010		Mpro-x1012	Probing fragment all	gOqhHf@cIICcUjh@	OC1CS(=O)(=O)C1			Z3241250482	Deposited	5RF5	D - surface - E178 	0.29	5.22	1.82	4 - High Confidence	
+;Sv9UOMq_WM4PQ230H2880gZ205Vcc80B0202121$2!1F%8F0I#2F801#4!V03101#V0F		Mpro-x1077	DSIpoised_DMSO	foAq@@JJ\AJUWe]hsQjjh@K`@@	N#CC=1C=CC(=CN1)N2CCCOCC2			Z1348371854	Deposited	5RF6	A - active	0.23	5.61	1.82	4 - High Confidence	
+zJPl#K8!F#4FN0V082m%39!62048081F08090V$4#1#12*2V!60F0F1918V0		Mpro-x1086	DSIpoised_DMSO	dknDPLa@BCdLddjbbQWUj@``@@	CC=1C=C(F)C=CC1CS(=O)(=O)N			Z1849009686	Deposition ready		C - dimer - M6	0.3	 11.96	 2.02	2 - Correct ligand, weak density	
+:UvzfzSrSxhQR@vEA8l3Oc97AH1gW08BPwXE32502nY6!Y06G1G04RFUJ3b1X201221!J01010240V0V0Fk		Mpro-x1093	DSIpoised_DMSO	fluI@@DZ\DFQQQIJKQIHbtYtTmUULE@T@@@	CN1CCN(CC1)C(=O)CC1=CNC2=NC=CC=C12			Z1400780201 	Deposited	5RF7	A - active	0.38	6.40	1.62	3 - Clear density, unexpected ligand	2.921A distance between :163@NE2 and :LIG@N3<NL>7-azaindole<NL>strong building block, very interesting to see the fused ring making a strong interaction with :166<NL>- might be interesting to move the N from 7 to 6(?)<NL>- might also be interesting to look at 6,6 fused rings instead of 5,6 fused rings
+uTPI2G9G0F5kVFA11N110NFk040F11!V2FV5!X0@086G1V!FV08040FV012V!14@X0V4#F03F2!1!k		Mpro-x1101	DSIpoised_DMSO	foAh@@@XhZvRJIQSSHtDZpPTUSD@@	CC(C)N(C)C=1N=CN=C2N(C)N=CC12			Z328695024	Deposition ready		X - xtal contact - M235/P241	0.58	 4.6	 1.47	2 - Correct ligand, weak density	
+iJPl208G!4F!20FF01082V$108!2F040V82FV!9VV$524J0F$V0V8#V04c!2020F01W0kF		Mpro-x1119	DSIpoised_DMSO	fhipb@LBCA@@cIIBhhddmmNmyZ`@@B@@@	NC=1C=CC(=CC1)S(=O)(=O)NC=2C=CC=CN2			Z271004858	Deposited	5RF8	X - xtal contact - R188	0.26	7.09	1.66	4 - High Confidence	
+;jzxUirpzxzTtOEf8qIhvhDA6N8VZxNfs2AX05N@iy43H25Fk1k!Z0RFmk!2I12VV0F501V#V0X01!V		Mpro-x1132	DSIpoised_DMSO	foAp`@DLdCRSLjsZKUgMUUUKTND@@	CC1CN(CCO1)C(=O)CN2C=CC=N2			Z217038356	Deposited	5RF9	X - xtal contact - K12-D33	0.2	5.77	1.66	4 - High Confidence	
+:rUvUMuUrvGzilIVn4LKDA4e0Y@40Vc9dC801G10J0X0H08110F#8!FHF#I0204%V020V0V02010		Mpro-x1163	DSIpoised_DMSO	foA``@F@xeLk{JtYYuUUP@QBE@@	OCC1CN(CC=2C=CC=CC2)CCO1			Z1259086950	Deposition ready		X - xtal contact - E240	0.5	 5.84	 1.72	2 - Correct ligand, weak density	
+;j;irvzvzqZdDdcwTE2WXVOOc8VZBIl2W3FJ0cIw430V52F42!o0N4N11F0V5!k!4!VV!V#W0FV		Mpro-x1187	DSIpoised_DMSO	foAp`@DTDARSKJlzJUgMSTuUTNP@	CN1C=CC(=N1)C(=O)NC[C@@H]2CCCO2			Z2643472210	Deposited	5RFA	C - dimer - M6	0.19	6.26	1.52	4 - High Confidence	
+vrUWHlO4WF1o0F011B0k082V!FF8#4HG01$808410V02F08!J#8W0F!1!V!4+W0FV		Mpro-x1226	DSIpoised_DMSO	deT`@@aNrQJHiXSUUR@@	CCNCC1=CN(C)N=N1			Z1271660837	Deposited	5RFB	X - xtal contact - H80	0.21	5.44	1.66	2 - Correct ligand, weak density	
+zpzlrWUBtk4SIG08BR8W280dV1F08#4Hk05288$Z1VV0Xc0@V040F!51!V1021!4)82V0FV		Mpro-x1235	DSIpoised_DMSO	fhiPb@LTdh@QdbbbQbfRqJ^CTmSA@P@@	COC(=O)NC=1SC(C)=NC1C=2C=CC=CC2			Z979145504	Deposited	5RFC	X - xtal contact - H80	0.24	7.05	1.52	4 - High Confidence	
+zpUl3WOKWF4R0F2DD80W2N2c!F0914042FV50X8#8690V0X10cV048FV115W!112#4d!3F2$V0FV		Mpro-x1237	DSIpoised_DMSO	dg}D`FzD@HrRPzIIICIvmST@@@@	CS(=O)(=O)CC1=NC=2C=CC=CC2N1			Z126932614	Deposited	5RFD	X - xtal contact - K12-D33	0.17	4.35	1.47	2 - Correct ligand, weak density	
+zrzxzdUTxpzxM28QUMBFI@@96A044Vtc28d0@2H50GXXV#20F0K!808FG!82F)1V$GVVVVF0		Mpro-x1249	DSIpoised_DMSO	fdyp`@DXbARSLjoZzISoMUUP@W@@@	O=C(NCC=1C=CC(C#N)=CC1)N2CCOCC2			Z509756472	Deposited	5RFE	A - active	0.21	4.78	1.52	2 - Correct ligand, weak density	
+zrUtztUxrKxtvsvQUn8IE8eWi87@5VDN0ct2220h@I6X0OV2V5F1626F8BF0V046W@2#11c1F2#FX01#	zrUtztUtrJCltkvQIl0IE8eVi03@5V@N08t22!g@I0X0OV2V1F1626F8BF0V046W@2#10c102#FV01#	Mpro-x1308	CovLibrary	fbuQc@E^EJHHc`QfHrJIKJPqIYSTX{t@DmUTtP@@	ClCC(=O)N1CCN(CC1)S(=O)(=O)c2ccc(Cl)cc2	fleQa@E^EJHHc`QdTRVTabRreFN}@AKUULP@@	CC(=O)N1CCN(CC1)S(=O)(=O)c2ccc(Cl)cc2	PCM-0102704	Deposited	5RFF	B - active - covalent	0.38	6.28	1.80	4 - High Confidence	
+:UvzvUzpKbtYHQQEfCm29P_aB0F9kL9_Ht277Xj0@q8BtTX02F01c0JB80d44kY121GV!5W10HN1F08%	:UvzvOvpJbkWHAQ3c1k29PV640F9k08ZHt274Xi0@k8BtRX02F01c0JB80d44k31!GV!4W10HN1F08%	Mpro-x1311	CovLibrary	fdyaa@BXCDDPxHrISQQQIIFF}YuMPTCBeAe@@	ClCC(=O)N(C1CS(=O)(=O)C=C1)c2ccccc2	fhiab@NPPX@QddaVTTTRMF^BmMTC@QAa@@	CC(=O)N(C1CS(=O)(=O)C=C1)c2ccccc2	PCM-0102372	Deposited	5RFG	B - active - covalent	0.53	4.88	2.39	2 - Correct ligand, weak density	
+zrUdzdUBrKxxQN9OEE8kAce9aAH28V692et23@0CN26eZ!20Zk9e!40BF0V10@132018F101F0F#X$V	zrUdzdUBrKxxQN9OAE8kAce9a3H28V692et2380CN24eZ!20Vk9e!40BF0V10@132018F!1F0F#X$V	Mpro-x1334	CovLibrary	fhiQC@NF\BHPDAbDfUvUvrTtZfjjjZX@@	ClCC(=O)N1CCN(Cc2ccc(Cl)s2)CC1	f`qQA@NF\BHPDILklklRfcTuUUSL@@	CC(=O)N1CCN(Cc2ccc(Cl)s2)CC1	PCM-0102277	Deposited	5RFH	B - active - covalent	0.3	5.07	1.82	2 - Correct ligand, weak density	
+zrUtztUxzKxtvsvUUv8IENeni87@CY7N0cvX320h9H6e2OW2V5FW207F8Bk0V246W2202411c1N2$m01#	zrUtztUtzJCltkvUIt0IENemi03@CY1N08vX3!g9H0e2OW2V1FW207F8Bk0V246W0202410c182$k01#	Mpro-x1336	CovLibrary	fjmQa@BRqhpHaPQdRfbRrdLTRpiIsSUUK@PT@@@	Cc1ccc(C)c(c1)S(=O)(=O)N2CCN(CC2)C(=O)CCl	fbuQb@LN`aH@cIICEDeDmdXiuoKUAQDTt@@@	Cc1ccc(C)c(c1)S(=O)(=O)N2CCN(CC2)C(=O)C	PCM-0102353	Deposited	5RFI	B - active - covalent	0.4	7.09	1.69	4 - High Confidence	
+zpzlrWSSWk4R3F2DDB8W2N0u!F0916246kV53V8!60601V0X_V8VF68FV091W!31240c49#42$V0FV	zpzlMWOKWk4B0F2DB80W2N0u!F0910246kV50V8$601V0X5V8VF68FV091W!112!c49#42$V0FV	Mpro-x1348	CovLibrary	f`qPa@B\qXDPpHRVvUUlTcNijZ@b@@@	COc1cccc2sc(NC(=O)CCl)nc12	foAPb@LDTX@QdbbfRTTnJRmSA@tT@@@	COc1cccc2sc(NC(=O)C)nc12	PCM-0103067	Deposited	5RFJ	B - active - covalent	0.37	7.18	1.80	4 - High Confidence	
+:UvzvzwzSxvvwtQCn8IE9u1y87AZV6Nccx2030W8H5X!Z2V4F9244k0DJ22044c2204011)X0V0F0	:UvzvzszRxntwtQ1n0IE9u0y03AZV0Nc8x2010V8H1X!Z2V0F9244k0DJ22044c020401*V0V0F0	Mpro-x1351	CovLibrary	flePb@BJpXDPdmrnmrhiQSSUUS@A@@@	ClCC(=O)N1CCC(CC1)NC(=O)c2ccccc2	fdyP`@DN@GHheEDdebhjqgMPTEELP@@	CC(=O)N1CCC(CC1)NC(=O)c2ccccc2	PCM-0102575	Deposited	5RFK	B - active - covalent	0.35	4.76	1.75	2 - Correct ligand, weak density	
+;vzfzUrS:QT@zEERFAvc9M8e_hWL@@fgX73k5827XV!Y66G1048a8Do235d@0L30404501F#8VY4X0G0	;vzfzUrSzjOT@zEERFAvc9M8e_hWF@@AgX71k4823XV!Y66G1048a8Do235d@0J304!401$8VW4X0G0	Mpro-x1358	CovLibrary	fbuQb@BFqhHHaI[e]mf\Tdyijjf``H@@	Oc1ccccc1NC(=O)C2CCN(CC2)C(=O)CCl	fleQ`@DNAjNQQJJIJIGZJ][sUPUADt@@@	Oc1ccccc1NC(=O)C2CCN(CC2)C(=O)C	PCM-0102389	Deposited	5RFL	B - active - covalent	0.3	5.08	1.69	2 - Correct ligand, weak density	
+:UvzvUzxKbtYHQQUfCm29P_aB0F9kU9_Ht277Xj2Aq8BtTX02F01c0JB80d44kY1@1GVV05W10HO1F18%	:UvzvOvxJbkWHAQIc1k29PV640F9k98ZHt274Xi2Ak8BtRX02F01c0JB80d44k3180GVV04W10HO1F18%	Mpro-x1374	CovLibrary	fleaa@BXCDDPxHrISQQQIIFHwkNijB`XVJCJ@@	Cc1ccc(cc1)N(C2CS(=O)(=O)C=C2)C(=O)CCl	fdyab@NPPX@QddaVTTTRNhspUij`XBbCB@@	Cc1ccc(cc1)N(C2CS(=O)(=O)C=C2)C(=O)C	PCM-0102539	Deposited	5RFM	B - active - covalent	0.24	6.57	2.07	2 - Correct ligand, weak density	
+:UvzvUzpKbtYHQQUfCm29P_aB0F9kT9_Ht277Xj2Aq8BtTX02F01c0JB80d44kY1@1GVV05W10HO1F18!8!	:UvzvOvpJbkWHAQIc1k29PV640F9k88ZHt274Xi2Ak8BtRX02F01c0JB80d44k3180GVV04W10HO1F18!8!	Mpro-x1375	CovLibrary	fleac@BXCDDPxHSHYDihhhddcD[ugTuAPLKEAe@@	Fc1ccc(cc1)N(C2CS(=O)(=O)C=C2)C(=O)CCl	fdyaa@NPPX@QFPrRPkJJJIGTYxJtuPLAQAa@@	Fc1ccc(cc1)N(C2CS(=O)(=O)C=C2)C(=O)C	PCM-0102868	Deposited	5RFN	B - active - covalent	0.36	6.33	1.80	4 - High Confidence	
+:UfzfzDrS:QT8tE7RFQXd9MAe_VVLB@dg2@3F582DXV!3H4F1F08V0DJ2H08@0L20F04101F#8cX%	:UfzfzDrSzjQT8tE7RFQXd9MAe_VVFB@9g2@3F582@XV!3H4F1F08V0DJ2H08@0J20F$1$8cV%	Mpro-x1380	CovLibrary	fdyPb@BFqhDPdmrnwJbdFMMUTuUT@@	ClCC(=O)N1CCC(CC1)C(=O)N2CCCCC2	fhiP`@DVA{HhhhddlUIFuYjjjjfh@@	CC(=O)N1CCC(CC1)C(=O)N2CCCCC2	PCM-0102972	Deposited	5RFO	B - active - covalent	0.37	5.37	1.87	2 - Correct ligand, weak density	
+:UvLtOK9F4sVFO2BF0FV8HLZ40F!61V0W2#V1Fo#1!1!1#480V#V02402+2!V0F0	yyPvLlOG8F4kVF9!F0FV8HH040F!20V0W2#V1Fk#1%1#480V%2402+2!V0F0	Mpro-x1382	CovLibrary	dg^HPAtHbxcHhdhXmMSP@USQGD@@	CC(NC(=O)CCl)c1cccc(Cl)c1	dknH`AtHcHhdhXmJZ@BjXcb@@	CC(NC(=O)C)c1cccc(Cl)c1	PCM-0102190	Deposited	5RFP	B - active - covalent	0.52	5.74	2.09	4 - High Confidence	
+:UtUWtK1F5w0J@fE!F288P1B01WV6802g240X!2$1W!FZ#4880205V!211V!4#V01F6!V0F0	:UtUWtK1F5g0J@fE!F288P1B01WV0802g240V!2$1W!FZ#4880205V#11V!4#V01F6!V0F0	Mpro-x1384	CovLibrary	fhiPb@BJpxDPdmlk]sKW`tt@QSQ@@@	ClCC(=O)Nc1cccc(c1)N2CCCC2=O	f`qP`@DZ@{HhheBeMiQbcMU@DSP@@	CC(=O)Nc1cccc(c1)N2CCCC2=O	PCM-0102179	Deposited	5RFQ	B - active - covalent	0.35	5.48	1.83	4 - High Confidence	
+zrUdzdUBrKxxQN9OEE8kAce9aAH28V692et23@0CN26eZ!20Zk9e!40BF0V10@132018F101F0F#X!40V	zrUdzdUBrKxxQN9OAE8kAce9a3H28V492et2380CN24eZ!20Vk9e!40BF0V10@112018F!1F0F#X!40V	Mpro-x1385	CovLibrary	fhiQC@NF\CDPDAbDfUvUvrTtZfjjjZX@@	ClCC(=O)N1CCN(Cc2ccc(Br)s2)CC1	f`qQA@NF\CDPDILklklRfcTuUUSL@@	CC(=O)N1CCN(Cc2ccc(Br)s2)CC1	PCM-0102169	Deposited	5RFR	B - active - covalent	0.32	4.54	1.75	2 - Correct ligand, weak density	
+:UfzfUBrKxtQR9OEA8kA9e1a8H28V68Bvx2330C82Me#206F92!JFBF2W0F3132!80101&X$V	:UfzfU8rJxlQR9O3A0kA9e0a0H28V08BQx2310C82Ge#202F92!JFBF2W0F3112!8#1&V$V	Mpro-x1386	CovLibrary	f`qQA@BRpBH\DIK\kkJJSoTuUTtt@@	ClCC(=O)N1CCN(Cc2ccsc2)CC1	foAQB@FZl@HRe]e]lDUjejjij@@	CC(=O)N1CCN(Cc2ccsc2)CC1	PCM-0102739	Deposited	5RFS	B - active - covalent	0.36	5.92	1.75	4 - High Confidence	
+:UvyfSLfJhs3L9ECPNkldA0aB0X8Y6BBMh24A010PpE0k084GJ01Z0VV80XG2F11XH8Z021104!8FVG8$	zyUvTfOHdFCk0L9E1NFkk9A0640X8Y08BMh248#PlA0k084FJ01Z0VV80XG2F11VH8V020104!8FV18$	Mpro-x1392	CovLibrary	fbmaB@BXADIK\kJl{beXJ\tuTD@@DDAT@@	ClCC(=O)N1CC(c2ccccc2)c3ccccc3C1	flua@@D@RYmYUg_`c^bejjB@@BBGJ@@	CC(=O)N1CC(c2ccccc2)c3ccccc3C1	PCM-0102432	Deposited	5RFT	B - active - covalent	0.32	5.46	1.62	4 - High Confidence	
+zrUdztUgrKxxvstOEj8mEcehiAM@8V6O7et2A20hN2aeZ902kZk9u!J0BF0Z14iW32018G1V1F2F!8X01!V	zrUdztUgrKxxvstOEj8mEcehiAI@8V6O7et2A20hN2aeZ902kZk9u!J0BF0Z14iW32018G1V1F2F!8X01!V	Mpro-x1402	CovLibrary	fleQ``INxHHHa@PpHSDYEDeiCDeeLRegTuKUUML@@	ClCC(=O)N1CCN(CC1)S(=O)(=O)c2ccc(Cl)s2	fdyQc@INxHHHa@PpHrJIKRFIKJDiYuMRuUSL@@	CC(=O)N1CCN(CC1)S(=O)(=O)c2ccc(Cl)s2	PCM-0102121	Deposited	5RFU	B - active - covalent	0.33	5.65	1.66	4 - High Confidence	
+zrUdzdUBrKxxQN9OEE8FA8e9aAH28V692et2A@0CN2aeZ!20ZF9u!J0BF0V102W32!8F101F0F#X$V	zrUdzdUBrKxxQN9OEE8FA8e9aAH28V692et2A@0CN2aeZ!20ZF9u!J0BF0V102W32!8F101F0F#X$V	Mpro-x1412	CovLibrary	fhiPa@BRqhDQXHRVyW[eEKpZZjiijP@@	ClCC(=O)N1CCN(CC1)C(=O)c2cccs2	fhiPa@BRqhDQXHRVyW[eEKpZZjiijP@@	ClCC(=O)N1CCN(CC1)C(=O)c2cccs2	PCM-0102306	Deposited	5RFV	B - active - covalent	0.29	5.28	1.66	2 - Correct ligand, weak density	
+zrUdzdUBrKxxQN9OEE8FA8e9a@H28V692et23@0CN26eZ!20ZF9e!40BF0V102132!8F101F0F#X$V	zrUdzdUBrKxxQN9OAE8FA8e9a2H28V492et2380CN20eZ!20VF9e!40BF0V102112!8F!1F0F#X$V	Mpro-x1418	CovLibrary	f`qQA@BRpBHLDIK\kkJJSoTuUUMR@@	ClCC(=O)N1CCN(Cc2cccs2)CC1	foAQB@FZl@HRf_e]lTUjfZjij@@	CC(=O)N1CCN(Cc2cccs2)CC1	PCM-0102243	Deposited	5RFW	B - active - covalent	0.36	4.71	1.83	4 - High Confidence	
+zrztzdUSrpxtQN@QU38F38c16B205VD@0cc222X5236X#204F1!F88BF1V40H0@210V0501!1101X%	zrztzdQOroCVOF@QI!F38c064201V8@08c220X4230X#2!F1!F88BF1V40H08210V0401!1101V%	Mpro-x1425	CovLibrary	fdyPb@BRpDDPdmrnrnbd{uMUT@EP@@	COc1ccc(cc1)N2CCN(CC2)C(=O)CCl	fhiP`@DBAyIfuvUw`kNZjj@Bh@@	COc1ccc(cc1)N2CCN(CC2)C(=O)C	PCM-0102254	Deposited	5RFX	B - active - covalent	0.36	5.71	1.66	2 - Correct ligand, weak density	
+:UfzvzDrS:vT9tE7SFQXtCM9e_VVL9edg2@YFb82DXV!324F1F98V0DJ2H08e0L2#4101FF0V8cX%	:UfzvzDrSzjtT9tE7SFQXtCM9e_VVF9e9g2@WFa82@XV!324F1F98V0DJ2H08e0J2&10F0V8cV%	Mpro-x1458	CovLibrary	fhqPb@BFqhDPdmrnwLJUMUTuU@@@	CC(C)N(C)C(=O)C1CCN(CC1)C(=O)CCl	f`aP`@DF@{Hhhhid\ihsUUUTt@@	CC(C)N(C)C(=O)C1CCN(CC1)C(=O)C	PCM-0102974	Deposited	5RFY	B - active - covalent	0.37	6.43	1.92	4 - High Confidence	
+zpQl61OK0F4N0F28D8#N&916!2VV502)V021$40FV010V!21$4#1$10V0FF	yJPl619G0F4!F2!8#N&112!2VV5+V021$40FV010V!2%4)10V0FF	Mpro-x1478	CovLibrary	dcMHPDjPbMbLbbTRLs]@PSP@@	ClCC(=O)Nc1cccnc1Cl	dmuH`DjPbLbbTRL[hBBX@@	CC(=O)Nc1cccnc1Cl	PCM-0102274	Deposited	5RFZ	B - active - covalent	0.29	8.35	1.72	4 - High Confidence	
+zrUdzdUBrKxtQN8OE38FA0c1682!V680cc22205826X#204F1%BF0V!2022$101F%X%	zrUdzdQ8rJCVOF8O3!FA0c0602!V0808c22!4820X#2!F1%BF0V!2!2&1&V%	Mpro-x1493	CovLibrary	dkmD`BgMBHRVyWXYijjf`@	CC(=O)N1CCN(CC1)C(=O)CCl	dcMD@DDERYm]nEjjih@@	CC(=O)N1CCN(CC1)C(=O)C	PCM-0102535	Deposited	5RG0	B - active - covalent	0.33	5.46	1.75	4 - High Confidence	
+<hitlist data>
+<hitlistName="<selection>">
+<hitlistData="@@@@@@@@@`@@@@@@">
+</hitlist data>
+<datawarrior properties>
+<axisColumn_2D View_0="Crystal ID">
+<axisColumn_2D View_1="Crystal ID">
+<axisColumn_3D View_0="Crystal ID">
+<axisColumn_3D View_1="Crystal ID">
+<axisColumn_3D View_2="Crystal ID">
+<chartType_2D View="scatter">
+<chartType_3D View="scatter">
+<columnFilter_Table="">
+<columnWidth_Table_Compound SMILES="80">
+<columnWidth_Table_CompoundCode="80">
+<columnWidth_Table_Confidence annotation="80">
+<columnWidth_Table_Crystal ID="80">
+<columnWidth_Table_Library Name="80">
+<columnWidth_Table_Map Resol="80">
+<columnWidth_Table_Modified Compound SMILES="80">
+<columnWidth_Table_Notes="128">
+<columnWidth_Table_PDB ID="80">
+<columnWidth_Table_Site="80">
+<columnWidth_Table_Status="80">
+<columnWidth_Table_Structure of Compound SMILES="100">
+<columnWidth_Table_Structure of Modified Compound SMILES="100">
+<columnWidth_Table_initial occupancy estimate="80">
+<columnWidth_Table_peak-height z-value="80">
+<columnWrapping_Table_Notes="true">
+<currentRecord="82">
+<detailView="height[Data]=0.33333;height[Structure of Compound SMILES]=0.33333;height[Structure of Modified Compound SMILES]=0.33333">
+<faceColor3D_3D View="-1250054">
+<filter0="#browser#	#disabled#	Crystal ID	Mpro-x0072">
+<filter1="#string#	Crystal ID">
+<filter10="#string#	Site">
+<filter11="#double#	initial occupancy estimate">
+<filter12="#string#	peak-height z-value">
+<filter13="#string#	Map Resol">
+<filter14="#category#	Confidence annotation">
+<filter15="#category#	Site	D - surface - E178 	D - surface - E240	D - surface - K97	X - xtal contact - E178 	X - xtal contact - E240	X - xtal contact - F294	X - xtal contact - H80	X - xtal contact - K12-D33	X - xtal contact - M235/P241	X - xtal contact - R105	X - xtal contact - R188	X - xtal contact - R279	X - xtal contact - S81	X - xtal contact - W31">
+<filter16="#string#	Notes">
+<filter2="#category#	Library Name">
+<filter3="#structure#	Structure of Compound SMILES">
+<filter4="#string#	Compound SMILES">
+<filter5="#structure#	Structure of Modified Compound SMILES">
+<filter6="#string#	Modified Compound SMILES">
+<filter7="#string#	CompoundCode">
+<filter8="#category#	Status">
+<filter9="#string#	PDB ID">
+<filterAnimation0="state=stopped delay=500">
+<mainSplitting="0.71372">
+<mainView="Table">
+<mainViewCount="4">
+<mainViewDockInfo0="root">
+<mainViewDockInfo1="Table	bottom	0.498">
+<mainViewDockInfo2="Table	right	0.497">
+<mainViewDockInfo3="2D View	right	0.497">
+<mainViewName0="Table">
+<mainViewName1="2D View">
+<mainViewName2="Structure of Compound SMILES">
+<mainViewName3="3D View">
+<mainViewType0="tableView">
+<mainViewType1="2Dview">
+<mainViewType2="structureView">
+<mainViewType3="3Dview">
+<rightSplitting="0.64146">
+<rotationMatrix_3D View00="1">
+<rotationMatrix_3D View01="0">
+<rotationMatrix_3D View02="0">
+<rotationMatrix_3D View10="0">
+<rotationMatrix_3D View11="1">
+<rotationMatrix_3D View12="0">
+<rotationMatrix_3D View20="0">
+<rotationMatrix_3D View21="0">
+<rotationMatrix_3D View22="1">
+<rowHeight_Table="80">
+<scaleStyle_2D View="frame">
+<scaleStyle_3D View="arrows">
+<showNaNValues_2D View="true">
+<showNaNValues_3D View="true">
+<structureGridColumn_Structure of Compound SMILES="Structure of Compound SMILES">
+<structureGridColumns_Structure of Compound SMILES="2">
+</datawarrior properties>
