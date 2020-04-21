@@ -1,11 +1,9 @@
 <datawarrior-fileinfo>
 <version="3.3">
-<created="1586613777920">
+<created="1587507266501">
 <rowcount="13">
 </datawarrior-fileinfo>
 <column properties>
-<columnName="Structure">
-<columnProperty="specialType	idcode">
 <columnName="idcoordinates2D">
 <columnProperty="parent	Structure">
 <columnProperty="specialType	idcoordinates2D">
@@ -13,20 +11,22 @@
 <columnProperty="parent	Structure">
 <columnProperty="specialType	FragFp">
 <columnProperty="version	1.2.1">
+<columnName="Structure">
+<columnProperty="specialType	idcode">
 </column properties>
 idcoordinates2D	FragFp	Structure	Name	Notes	Name_tmp	Smiles
 !B|Gsw?@D@@PCp_O\B	0F@F#1.8//(F.4*1!VF	gOt@ATiVK@H@@		starting moiety contained in both x0434 and x0678	x0434_x0678_00	Nc1cccnc1
 !B}pKp_@D@@PAw?OA||Gp	0F@F#1.80F//%F.4*1!VF	daG@@@kdiVRX@b@@		Add aromatic amine group from x0995, also supported by x0397 which has a methyl group overlapping the added aromatic amine. Keep the aromatic amine instead of the methyl since the aromatic amine can hydrogen bond to the backbone carbonyl of PHE140	x0434_x0678_01	Nc1cncc(N)c1
 !B}?sp_@D@@PAw?OA||Gqw?P	2FPF2091&2&80F/.V%F.4*1V0kF	dig@@@kdiVTf@Hh@@		start adding additional bulk off the newly added aromatic amine from x0434_x0678_01	x0434_x0678_02	CNc1cc(N)cnc1
 !BmpJH@ox@?`Bw@h`Bb@Jw__x@	2HPF2091!1V!21%80F04/+FV%F.4%10201!VF	deW@@@kdiVVI`BJ`@@		Need another matched pair negative control to solidify the importance of the h-bond donor to PHE140 backbone carbonyl; this should not be as active as x0434_0678_01 or x0434_0678_02	x0434_x0678_03	CN(C)c1cc(N)cnc1
-!BmpJH@ox@?`Bw@h`Bb@K~@Ox@b@H	vrUdQlOZWJ5wVF99Ag0V28@VV8FF8V4042G0380VF@Z840FV0XF0cV0K4F0VW#W1!W805$F2#1W0k0	dmL`@@rnReYWIiUijeh@@		continuing the theme of adding more steric bulk to the x0434_x0678_0 series; this is the only option for a 6-6 bicyclic ring system with a H atom on the 5 position (which maintains the H-bonding donor interacting with the H-bond acceptor of the PHE140 backbone carbonyl)	x0434_x0678_04	NC1=CN=CN2NC=CC=C12
+!BrOu~@H`B@W~H@lc}_`CH?X`B@W|	0F@F#1.8//(F.4*1!VF	dmL`@@hYRfV^kaT@@H@@@		continuing the theme of adding more steric bulk to the x0434_x0678_0 series; this is the only option for a 6-6 bicyclic ring system with a H atom on the 5 position (which maintains the H-bonding donor interacting with the H-bond acceptor of the PHE140 backbone carbonyl)	x0434_x0678_04	NC1=CN=CN2NC=CC=C12
 !BbOw~@H`B?g~H@hc}?`BH?X`B?g|	0F@F#1.8//(F.4*1!VF	dmO@@@FTiegjxU@@B@@@		matched pair with x0434_x0678_04; this should be a negative control, as it would not be expected to be as potent since the hydrogen bond donor has been eliminated at the 5 position (clarify, it may still be active, but not expected to be _as active_ as x0434_x0678_04)	x0434_x0678_05	Nc1c(cccn2)c2cnc1
 !Bb@Jw@ox@?`BH@k\BnuRYpMKP	HFPF20910F$2!8010N0F*2FV5(6&V#40F!10V!102#4*1V0kk	dew@@@kdiV]Iad@bhP@		establish more evidence for the importance of the h-bond donor to PHE140 backbone carbonyl; this is expected not to be as active as x0434_x0678_01, x0434_x0678_02, or x0434_x0678_04 because the 5-membered ring changes the geometry of the h-bond interaction in a negative way (but we still have to make it to see for certain)	x0434_x0678_06	Nc1c(cc[nH]2)c2cnc1
 !BmpJH@ox@?`B{UH`Bb@KRtIg@	vrQd2lOZ0J5w0F99A80V082V08FF804!2F038!F@V841FV0XF08!K0F0VW#W1!W805$F2#110VV	det`@@rnReYTfFVfiZ@@		negative matched pair to x0434_x0678_06, and consistent with the structure of the bridging nitrogen in x0434_x0678_04.	x0434_x0678_07	Nc1cncn2nccc12
 !Bb@Jw@ox@?`Bw@h`BnuRYpMKP	vrPWPWO60F7o0F91380V08PV!F48V#2O014#@V84V0V02F08!J0F0V1#W1!W!4$F2#W!VV	det`@@inReY\jFYZfi@@		This one could've been a negative control of the matched pair with x0434_x0678_06, but it was not selected as such since the bridging nitrogen is in a different position relative to x0434_x0678_04. But this is still an interesting fragment to test for activity (or lack thereof relative to similar fragments)	x0434_x0678_08	Nc1cncc2nccn12
 !Bb@Jw@ox@?`BH@k\BnuRYpMKP	2FPF20910F$2!8010N0k*2FV5(6!V020V#40F!10V!102#48$2#1V0kk	det`@@kaReYtfFPBJa@@		This one is a very interesting potential matched pair for x0434_0678_06, it's like half of a negative control since the H can be on either of the nitrogens at the 3 or 1 position. If the local environment "prefers" the H at the 1 position as a h-bond donor to PHE140 backbone carbonyl, then that tautomer will be lower in energy than the one with the H at the 3 position. This compound would be expected to be as active (or maybe only slightly less active) than x0434_x0678_06.	x0434_x0678_09	Nc1c2nc[nH]c2cnc1
 !Bb@Jw@ox@?`BH@k\BnuRYpMKP	mFPF2081#F!2!N010N0k*2FV5&861%V#40F!12V!1022!4*1W0kk	det`@@kiReYtfFPBJa@@		Similar to x0434_x0678_09, this compound has two tautomers where the H can exist on either of the nitrogen atoms as positions 1 or 2. Depending on the local environment in the protein, either tautomer could be "preferred"; in this case, the tautomer shown would be expected to be the "preferred" tautomer since it could maintain the h-bond interaction as the h-bond donor to PHE140 backbone carbonyl. This should have similar activity to x0434_x0678_06 and/or x0434_x0678_09.	x0434_x0678_10	Nc1c(cn[nH]2)c2cnc1
-!BbOw~@H`B?g~H@hc}?`BH?X`B?g|	vrPWPVO60F7o!91280V08@V!F48V#HO014#8V84W#2F08!J0F0V1#W1!W!4$F$WV0k0	dmL`@@pYRfV^kaVYjiX@@		matched pair to x0434_0678_08. This is an interesting fragment because it would be expected to be negative for the hypothesis at PHE140 backbone carbonyl since it doesn't have a h-bond donor at that position. However it does have an h-bond donor to HIS163 which can be an acceptor or donor.	x0434_x0678_11	NC1=CNC=C2N=CC=CN12
+!B@W~w@k]}bGvw?[\B_c~H?Gx?bGt	0F@F#1.8//(F.4*1!VF	dmL`@@XUrQQJJFfeP@B@@@		matched pair to x0434_0678_08. This is an interesting fragment because it would be expected to be negative for the hypothesis at PHE140 backbone carbonyl since it doesn't have a h-bond donor at that position. However it does have an h-bond donor to HIS163 which can be an acceptor or donor.	x0434_x0678_11	NC1=CNC=C2N=CC=CN12
 						
 <hitlist data>
 <hitlistName="<selection>">
@@ -48,7 +48,7 @@ idcoordinates2D	FragFp	Structure	Name	Notes	Name_tmp	Smiles
 <formObjectInfo_Form View_1="Name	textLine	1, 9, 1, 9, full, full">
 <formObjectInfo_Form View_2="Notes	textLine	1, 11, 1, 11, full, full">
 <formObjectInfo_Form View_3="Name_tmp	textLine	1, 13, 1, 13, full, full">
-<mainSplitting="0.70681">
+<mainSplitting="0.70582">
 <mainView="Table">
 <mainViewCount="2">
 <mainViewDockInfo0="root">
