@@ -1,0 +1,18 @@
+# clustering binding pockets for active site - noncovalent inhibitors
+
+calculating distances:
+First, I whitled down the residues that contribute to conformational diversity in the binding pocket.
+This produced :45,46,49,142,165,189 but :165 had a problem due to alternative conformations so I removed it
+leaving :45,46,49,142,189. The distances based on this mask are shown in 'binding_pocket_clustering_1.txt'.
+
+But :165 is all over the place and I felt I "had" to include it. So I figured out how to make it work with
+chimera, resulting in distances for the mask :45,46,49,142,165,189 captured in 'binding_pocket_clustering_1a.txt'.
+
+Then, I wondered if it would really be a good idea to eliminate the majority of the residues in the binding
+pocket so I calculated the distances again using the mask :24-27,41,44-46,49,119,142-145,164-165,187,189,140,163,166,167,168,192.
+This seemed to compress the distances, rather than give more separation, so I didn't use these distances,
+but they are available in 'binding_pocket_clustering_1b.txt'
+
+I sorted the indices in 'binding_pocket_clustering_1a.txt' to create the upper right triangle of the distance
+matrix, saving the results in 'binding_pocket_clustering_1a_sort.txt' and loaded this file into a jupyter
+notebook for hierarchical clustering. The results are captured in 'binding_pocket_clusters.txt'

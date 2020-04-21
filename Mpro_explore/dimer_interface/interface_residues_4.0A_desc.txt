@@ -1,0 +1,3 @@
+# residues with at least one atom within 4.0A of the other protein in the homodimer
+# grep -v -E '(HOH|DMS)' interface_residues_4.0A.txt | cut -f2 -d: | cut -f1 -d. | sort -n > tmp
+:1-12,14,97,118-119,121-128,137-141,152,166,170,172,280,283-286,288,290,299-306

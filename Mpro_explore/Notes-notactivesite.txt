@@ -1,0 +1,33 @@
+Idea - allosteric sites:
+  It appears that there are two potential allosteric sites that could interfere with the formation of the protein-protein
+interface. The big question is whether or not the formation of the dimer is required for activity: if it is required
+for the enzyme to be active, then blocking the formation of this interface could result in an effective non-competitive
+inhibitor through allosteric means.
+
+Now, the other cool thing about this idea is that these two allosteric sites are pretty close to each other (but only through space,
+one allosteric site is located on one of the monomers and the other allosteric site is located on the other monomer, such that they
+are actually quite far apart from each other when looking at a single monomer only), and they are both pretty close to the
+active site. So the second question is if in addition to blocking the formation of the protein-protein interface, these allosteric
+sites could influence the activity at the active site by modulating the dynamics. Now, back to the pair of allosteric sites: what I
+thought would be cool is if we could design a molecule that would span both allosteric sites. The loop that includes residues 137
+thru 141 effectively spans these two allosteric sites. The loop fits into a groove on the cognate surface and connects with one of
+the deep allosteric pockets referenced above. The other allosteric site doesn't have a deep pocket to recognize the other end of
+the molecule, but the groove for the loop 137 to 141 connects to this second allosteric site. There may be a chance to design
+a branch in the molecule that straddles the N-terminus, one arm of the branch along ARG4 (possibly negatively charged forcing ARG4
+side chain to fold back over the ligand) and the other arm in the deep groove between the N-terminus and the alpha-helix 293 thru
+301. Might have to be a long and flexible molecule, but it could work. And of course, this is all predicated on activity requiring
+an intact dimer...
+
+There may be an opportunity here but this idea would be a secondary strategy to finding a competitive inhibitor.
+
+The fragments for each allosteric site are:
+ Site 1
+ - x0887
+
+ Site 2
+ - x1187
+ - x1086
+
+
+Interesting: the scientists at Diamond didn't categorize x1187 and x1086 together. They tagged x1187 as a potential disrupter of 
+the dimer interface, but not x1086. I wonder why?
