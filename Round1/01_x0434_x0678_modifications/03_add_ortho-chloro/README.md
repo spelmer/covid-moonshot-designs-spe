@@ -6,11 +6,16 @@ the ortho position. When I was setting up those simulations, I did a quick look 
 the compounds would look like with a chlorine instead of a fluorine. Based on that inspection
 I decided that the chlorine atom wouldn't fit in the pocket. But, as I was getting ready to
 move on to the linkers, I had that thought I mentioned earlier. I'm glad I ran these
-simluations because base on these results, chlorine could very well fit in this tight spot
+simulations because base on these results, chlorine could very well fit in this tight spot
 and also provide a halogen bonding interaction with HIS163 carbonyl oxygen.
 
 # Results
 
 I created molecules for only three of the candidates. I am not going to create chloro-
 compounds for all analogous fluoro- compounds but at least a small subset should be
-synthesized and tested
+synthesized and tested.
+
+# Update
+
+I changed my mind, I am going to build and submit structures for all twenty-four fluoro-
+compounds previously submitted.
