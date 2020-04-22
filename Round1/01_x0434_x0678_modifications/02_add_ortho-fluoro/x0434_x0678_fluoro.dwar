@@ -1,0 +1,102 @@
+<datawarrior-fileinfo>
+<version="3.3">
+<created="1587515405250">
+<rowcount="24">
+</datawarrior-fileinfo>
+<column properties>
+<columnName="Structure of Smiles">
+<columnProperty="specialType	idcode">
+<columnName="SmilesFragFp">
+<columnProperty="parent	Structure of Smiles">
+<columnProperty="specialType	FragFp">
+<columnProperty="version	1.2.1">
+</column properties>
+SmilesFragFp	Structure of Smiles	Smiles	Name	Name_tmp 2	Residue Name
+joQl60OK0F48!28B80V0N&91!46VV50V)V025!V040FV014V#1$41(1VV8FF	fhiqB@DTUHDadTRbQfTRSN^C@PSP@@@@	O=C(Nc1cccnc1F)Nc1ccccc1	SPE_0048		S48
+joQl60OK0F48!28B80V0N0F$91!46VV50V(1V025V0V140FV014V#1$4108%1WV8kF	fdyIB@DTeiPICHheDlhUDds`XpDEM@@@@@	O=C(Nc1cc(N)cnc1F)Nc1ccccc1	SPE_0049		S49
+joQl60OK0F48!28B80V0N0F$91!46VV50V02%1V025V0V140FV01BV#1$4108%1VV8FF	fleIB@DTeiPIAIeev_eV\bf@`ij@@@@@	CNc1cnc(c(c1)NC(=O)Nc1ccccc1)F	SPE_0050		S50
+jqQl60OK0F5c!29B80V0N0F04!91!46VV50V02%1V02KV0V140FV01BV#1$4108011021VV8FF	fbuIB@DTeiPICHheDlhicDdsb\pDEMT@@@@@	O=C(Nc1cc(cnc1F)N(C)C)Nc1ccccc1	SPE_0051		S51
+joQl60OK0F48!28B80V0N&91!46VV50V)V025!V040FV014V#1$41(1VV8FF	fj}iB@DTTZv`RFQQJIIJIXqILyYvRpDDCA@@@@@	O=C(Nc1c(F)ncc2c1cncn2)Nc1ccccc1	SPE_0052		S52
+joQl60OK0F48!28B80V0N&91!46VV50V)V025!V040FV014V#1$41(1VV8FF	fj}IB@DTT[PICHheDdeDlXdf\l{IXBBA``@@@@	O=C(Nc1c(F)ncc2c1cccn2)Nc1ccccc1	SPE_0053		S53
+zoQl60OK0F48!28B80W0N0F$91!46kV50V02#601V025V0V141FV01BV!11204V4108%1VV8Fk	fbmIB@DTT[PICHheDdeD]DdsbkIs@PULp@D@@@	O=C(Nc1c(F)ncc2c1cc[nH]2)Nc1ccccc1	SPE_0054		S54
+zrUtrtUxnK5x3NfQEC8V2c2da9LFC0414Ll0EAV4F@a8Z1FX0aw0cV0K8N0cW5k@W110_8FK11!F2080VW8FV	fbmiB@DTxhv`RFQQJIIJHzIIgEVSfejfZ`@d@@	O=C(Nc1c(F)ncn2c1ccn2)Nc1ccccc1	SPE_0055		S55
+zrUtzdUUrF7xQHQAEC8XH9Pdg9H4CV044Lt0C7V08@VBZW0V6Yw0@V2J8k0c55k5WW10W!J1#F2!8VV8FV	fbmiB@DTXjq`RFQQJIIIRjIJgEZSfejiV`@h@@	O=C(Nc1c(F)ncc2n1ccn2)Nc1ccccc1	SPE_0056		S56
+joQl60OK0F48!28B80W0N0k$91!46kV50V02#601V025V0V141FV01BV!11204V4908!2!1VV8Fk	fbmiB@DTdhv`RFQQJIIJHzIIgEVSf@`jY`@H@@	O=C(Nc1c(F)ncc2c1nc[nH]2)Nc1ccccc1	SPE_0057		S57
+zoQl60OK0F4N!28BN0W0N0k$91!46kV50V02!8611V025V4V141FV01DV!11224V4108%1VW8Fk	fbmiB@DTTZv`RFQQJIIJHzIIgEVSf@`jY`@H@@	O=C(Nc1c(F)ncc2c1cn[nH]2)Nc1ccccc1	SPE_0058		S58
+joQl60OK0F48!28B80V0N&91!46VV50V)V025!V040FV014V#1$41(1VV8FF	fj}iB@DTdhv`RFQQJIIJIXqILyYvRpDDCA@@@@@	O=C(Nc1c(F)ncc2c1nccn2)Nc1ccccc1	SPE_0059		S59
+:UvjfzS_SwE1J3uBEN83NJ9I!Yh1012@VV5F!F!VV40Y021$B8IV011V#1#FB)30V8FF	fhiQB@DTdBPrJIQHsJIIgOA`HIjjb@@	O=C(Nc1cccnc1F)CC1CCCCC1	SPE_0060		S60
+:UvjfzS_SwE1J3uBEN83NJOI!Yh1012@VV5F!F!VV41Y021V!1B8IV011V#1#FB!8%31V8kF	fdyqB@DTdhDadTRbVTJbRYpLXBBfjjH@@	O=C(Nc1cc(N)cnc1F)CC1CCCCC1	SPE_0061		S61
+:UvjfzS_SwE1J3uBEN83NJOI!Yh1012@VV5F!H!VV41Y021V!1B8IV019V#1#FB!8%30V8FF	fleqB@DTdhD`drr{OrkNQS@PTuUTP@@	CNc1cnc(c(c1)NC(=O)CC1CCCCC1)F	SPE_0062		S62
+:UvjfzS_Sxj1J3vBEN83NJOI40Yh1012@VV5F!H!VV41Y02GV!1B8IV019V#1#FB!80110230V8FF	fbuqB@DTdhDadTRbVTTqbRYqNXBBfjjh`@@	CN(c1cnc(c(c1)NC(=O)CC1CCCCC1)F)C	SPE_0063		S63
+:UvjfzS_SwE1J3uBEN83NJ9I!Yh1012@VV5F!F!VV40Y021$B8IV011V#1#FB)30V8FF	fj}IB@DTU[PICHheDdeDlXdf\l{IXBBA`jjB@@	O=C(Nc1c(F)ncc2c1cncn2)CC1CCCCC1	SPE_0064		S64
+:UvjfzS_SwE1J3uBEN83NJ9I!Yh1012@VV5F!F!VV40Y021$B8IV011V#1#FB)30V8FF	fj}qB@DTUhDadTRbRRbVLRSNV]dlAA@pUUA@@@	O=C(Nc1c(F)ncc2c1cccn2)CC1CCCCC1	SPE_0065		S65
+:UvjfzS_SwE1J3uBEN93NJOI!Yh1012@kV5F!H!Va41Y021V!1B9IV019V!11204kB!8%30V8Fk	fbmqB@DTUhDadTRbRRbNbRYqUdy`HJfZjb`@@	O=C(Nc1c(F)ncc2c1cc[nH]2)CC1CCCCC1	SPE_0066		S66
+:UfzvzgrSxzQRdtEENsA8LdrALnc041@ul2AP04F@acZ5FYFas0c!p0Q4cW1F2W1!W8FS01!F2!20W8FV	fbmIB@DTxkPICHheDdeD]DdsbkIsRuSMUUS@@@	O=C(Nc1c(F)ncn2c1ccn2)CC1CCCCC1	SPE_0067		S67
+:UfzfzDrS:QT9tEENcQdTdMAHbcV056Pt09L!N@cgZ_0YLas08V0J0I0c51F9WW!W0FR$F2!@VV8FV	fbmIB@DTXhpICHheDddiUDeSbmIsRuTkUUU@@@	O=C(Nc1c(F)ncc2n1ccn2)CC1CCCCC1	SPE_0068		S68
+:UvjfzS_SwE1J3uBEN93NJtI!Yh1012@kV5F!H!Va41Y021V!1B9IV019V!11204kB808!2!30V8Fk	fbmIB@DTdkPICHheDdeD]DdsbkIs@PULuUE@@@	O=C(Nc1c(F)ncc2c1nc[nH]2)CC1CCCCC1	SPE_0069		S69
+:UvjfzS_SwU1J3uBUN93NJtI!Yh1012@kV5F!H!ca51Y021V401B9IV01AV!11224kB!8%30W8Fk	fbmIB@DTU[PICHheDdeD]DdsbkIs@PULuUE@@@	O=C(Nc1c(F)ncc2c1cn[nH]2)CC1CCCCC1	SPE_0070		S70
+:UvjfzS_SwE1J3uBEN83NJ9I!Yh1012@VV5F!F!VV40Y021$B8IV011V#1#FB)30V8FF	fj}IB@DTdkPICHheDdeDlXdf\l{IXBBA`jjB@@	O=C(Nc1c(F)ncc2c1nccn2)CC1CCCCC1	SPE_0071		S71
+<hitlist data>
+<hitlistName="<selection>">
+<hitlistData="@@@`">
+</hitlist data>
+<datawarrior properties>
+<axisColumn_2D View_0="Structure of Smiles">
+<axisColumn_2D View_1="Structure of Smiles">
+<axisColumn_3D View_0="Structure of Smiles">
+<axisColumn_3D View_1="Structure of Smiles">
+<axisColumn_3D View_2="Structure of Smiles">
+<chartType_2D View="scatter">
+<chartType_3D View="scatter">
+<columnAliasCount="2">
+<columnAlias_0="Structure of Smiles	Structure">
+<columnAlias_1="Name_tmp 2	Name_tmp">
+<columnFilter_Table="">
+<columnOrder_Table="Structure of Smiles	Name	Name_tmp 2	Smiles	Residue Name">
+<columnWidth_Table_Name="80">
+<columnWidth_Table_Name_tmp 2="80">
+<columnWidth_Table_Residue Name="80">
+<columnWidth_Table_Smiles="80">
+<columnWidth_Table_Structure of Smiles="100">
+<detailView="height[Data]=0.5;height[Structure of Smiles]=0.5">
+<faceColor3D_3D View="-1250054">
+<filter0="#browser#	#disabled#	Structure	fbmIB@DTT[PICHheDdeD]DdsbkIs@PULp@D@@@">
+<filter1="#structure#	Structure of Smiles">
+<filter2="#string#	Smiles">
+<filter3="#string#	Name">
+<filter4="#string#	Name_tmp 2">
+<filter5="#string#	Residue Name">
+<filterAnimation0="state=stopped delay=500">
+<mainSplitting="0.70681">
+<mainView="Table">
+<mainViewCount="4">
+<mainViewDockInfo0="root">
+<mainViewDockInfo1="Table	bottom	0.5">
+<mainViewDockInfo2="Table	right	0.5">
+<mainViewDockInfo3="2D View	right	0.5">
+<mainViewName0="Table">
+<mainViewName1="2D View">
+<mainViewName2="Structure of Smiles">
+<mainViewName3="3D View">
+<mainViewType0="tableView">
+<mainViewType1="2Dview">
+<mainViewType2="structureView">
+<mainViewType3="3Dview">
+<rightSplitting="0.64286">
+<rotationMatrix_3D View00="1">
+<rotationMatrix_3D View01="0">
+<rotationMatrix_3D View02="0">
+<rotationMatrix_3D View10="0">
+<rotationMatrix_3D View11="1">
+<rotationMatrix_3D View12="0">
+<rotationMatrix_3D View20="0">
+<rotationMatrix_3D View21="0">
+<rotationMatrix_3D View22="1">
+<rowHeight_Table="80">
+<scaleStyle_2D View="frame">
+<scaleStyle_3D View="arrows">
+<showNaNValues_2D View="true">
+<showNaNValues_3D View="true">
+<structureGridColumn_Structure of Smiles="Structure of Smiles">
+<structureGridColumns_Structure of Smiles="6">
+</datawarrior properties>

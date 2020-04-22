@@ -1,0 +1,86 @@
+<datawarrior-fileinfo>
+<version="3.3">
+<created="1587517227077">
+<rowcount="9">
+</datawarrior-fileinfo>
+<column properties>
+<columnName="Structure of Smiles">
+<columnProperty="specialType	idcode">
+<columnName="SmilesFragFp">
+<columnProperty="parent	Structure of Smiles">
+<columnProperty="specialType	FragFp">
+<columnProperty="version	1.2.1">
+</column properties>
+SmilesFragFp	Structure of Smiles	Smiles	Name	Name_tmp	Residue Name
+zrUtzdUUrKzxQP@QEUBlIve96AH4BWF86PtVE3H50FYfa0VX66G1O0BR0RF1_3s@V1021!J01010240VVV0Fk	flui@@DXtxHLbbbRTVbRQEhshiZjjXJ@h@ADMD	C[NH]1CCN(CC1)C(=O)Nc1c[nH]c2c1cccn2	SPE_0081		S81
+zrUtzdUUrKzxQP@QEUBlIve96AH4BWF86PtVE3H50FYfa0VX66G1O0BR0RF1_3s@V1021!J01010240VVV0Fk	fluY@@DXtxLPYEEDdhmDdbKQgQRuUTpTAP@C~HZH	C[NH]1CCN(CC1)C(=O)Nc1c[nH]c2c1cncn2	SPE_0082		S82
+zrUtzdUUrKzxQP@QEUBlIve96AH4BWF86PtVE3H50FYfa0VX66G1O0BR0RF1_3s@V1021!J01010240VVV0Fk	fluY@@DXtYtPYEEDdhmDdbKUgQRuUTpTAP@C~HZH	C[NH]1CCN(CC1)C(=O)Nc1c[nH]c2c1nccn2	SPE_0083		S83
+zrUtzdUUrKzxQP@QEUBlIve96AH4CWF86TtVE3H50FYfa0VX66O1O0BR0Rk1_Is@V1021!J01010240VVV8Fk	fbmiB@DTxYN`RFQQJIIJHsIXcEVbffh`XjjB@ADDd	C[NH]1CCN(CC1)C(=O)Nc1c(F)[nH]c2c1cccn2	SPE_0084		S84
+zrUtzdUUrKzxQP@QEUBlIve96AH4CWF86TtVE3H50FYfa0VX66O1O0BR0Rk1_Is@V1021!J01010240VVV8Fk	fbmYB@DTxZr]@dLbbTRRTQfRqFJmEMMQ@qUTD@C~HIH	C[NH]1CCN(CC1)C(=O)Nc1c(F)[nH]c2c1cncn2	SPE_0085		S85
+zrUtzdUUrKzxQP@QEUBlIve96AH4CWF86TtVE3H50FYfa0VX66O1O0BR0Rk1_Is@V1021!J01010240VVV8Fk	fbmYB@DTyHr]@dLbbTRRTQfRqFJmEMMQ@qUTD@C~HIH	C[NH]1CCN(CC1)C(=O)Nc1c(F)[nH]c2c1nccn2	SPE_0086		S86
+zrUtzdUUrKzxQP@QEUBlIve96AH4CWH86TtVE3H50FYfa0VX66O1O0BR0Rk1_Is@V3021!J01010240VVV0Fk	fbmYB@DTxZr]@bLbbTRRTQfRqFJmEMMQ@qUTD@C~HIH	C[NH]1CCN(CC1)C(=O)Nc1c(Cl)[nH]c2c1cncn2	SPE_0087		S87
+zrUtzdUUrKzxQP@QEUBlIve96AH4CWH86TtVE3H50FYfa0VX66O1O0BR0Rk1_Is@V3021!J01010240VVV0Fk	fbmYB@DTyHr]@bLbbTRRTQfRqFJmEMMQ@qUTD@C~HIH	C[NH]1CCN(CC1)C(=O)Nc1c(Cl)[nH]c2c1nccn2	SPE_0088		S88
+zrUtzdUUrKzxQP@QEUBlIve96AH4CWH86TtVE3H50FYfa0VX66O1O0BR0Rk1_Is@V3021!J01010240VVV0Fk	fbmiB@DTxYN`QFQQJIIJHsIXcEVbffh`XjjB@ADDd	C[NH]1CCN(CC1)C(=O)Nc1c(Cl)[nH]c2c1cccn2	SPE_0089		S89
+<hitlist data>
+<hitlistName="<selection>">
+<hitlistData="@D">
+</hitlist data>
+<datawarrior properties>
+<axisColumn_2D View_0="Structure of Smiles">
+<axisColumn_2D View_1="Structure of Smiles">
+<axisColumn_3D View_0="Structure of Smiles">
+<axisColumn_3D View_1="Structure of Smiles">
+<axisColumn_3D View_2="Structure of Smiles">
+<chartType_2D View="scatter">
+<chartType_3D View="scatter">
+<columnAliasCount="1">
+<columnAlias_0="Structure of Smiles	Structure">
+<columnFilter_Table="">
+<columnOrder_Table="Structure of Smiles	Name	Name_tmp	Smiles	Residue Name">
+<columnWidth_Table_Name="80">
+<columnWidth_Table_Name_tmp="80">
+<columnWidth_Table_Residue Name="80">
+<columnWidth_Table_Smiles="80">
+<columnWidth_Table_Structure of Smiles="100">
+<detailView="height[Data]=0.5;height[Structure of Smiles]=0.5">
+<faceColor3D_3D View="-1250054">
+<filter0="#browser#	#disabled#	Structure	fbmYB@DTxZr]@bLbbTRRTQfRqFJmEMMQ@qUTD@C~HIH">
+<filter1="#category#	Structure of Smiles">
+<filter2="#category#	Smiles">
+<filter3="#category#	Name">
+<filter4="#string#	Name_tmp">
+<filter5="#string#	Residue Name">
+<filterAnimation0="state=stopped delay=500">
+<mainSplitting="0.70681">
+<mainView="Table">
+<mainViewCount="4">
+<mainViewDockInfo0="root">
+<mainViewDockInfo1="Table	bottom	0.5">
+<mainViewDockInfo2="Table	right	0.5">
+<mainViewDockInfo3="2D View	right	0.5">
+<mainViewName0="Table">
+<mainViewName1="2D View">
+<mainViewName2="Structure of Smiles">
+<mainViewName3="3D View">
+<mainViewType0="tableView">
+<mainViewType1="2Dview">
+<mainViewType2="structureView">
+<mainViewType3="3Dview">
+<rightSplitting="0.64286">
+<rotationMatrix_3D View00="1">
+<rotationMatrix_3D View01="0">
+<rotationMatrix_3D View02="0">
+<rotationMatrix_3D View10="0">
+<rotationMatrix_3D View11="1">
+<rotationMatrix_3D View12="0">
+<rotationMatrix_3D View20="0">
+<rotationMatrix_3D View21="0">
+<rotationMatrix_3D View22="1">
+<rowHeight_Table="80">
+<scaleStyle_2D View="frame">
+<scaleStyle_3D View="arrows">
+<showNaNValues_2D View="true">
+<showNaNValues_3D View="true">
+<structureGridColumn_Structure of Smiles="Structure of Smiles">
+<structureGridColumns_Structure of Smiles="6">
+</datawarrior properties>
