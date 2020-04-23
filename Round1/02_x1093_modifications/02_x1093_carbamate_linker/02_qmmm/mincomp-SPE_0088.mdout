@@ -3,19 +3,19 @@
           Amber 18 SANDER                              2018
           -------------------------------------------------------
 
-| Run on 04/17/2020 at 00:26:38
+| Run on 04/22/2020 at 21:32:30
 
 |   Executable path: sander
-| Working directory: /Users/sid/Documents/Research/2020_SARS_CoV_2/20200325_diamond_postera_3CLPro/covid-moonshot-designs-spe/03_x1093_carbamate_linker/02_qmmm
+| Working directory: /Users/sid/work/dev/personal/github/covid-moonshot-designs-spe/Round1/02_x1093_modifications/02_x1093_carbamate_linker/02_qmmm
 |          Hostname: Unknown
   [-O]verwriting output
 
 File Assignments:
 |  MDIN: min-qmmm.mdin                                                         
 | MDOUT: mincomp-SPE_0088.mdout                                                
-|INPCRD: comp-SPE_0088.inpcrd                                                  
-|  PARM: comp-SPE_0088.prmtop                                                  
-|RESTRT: mincomp-SPE_0088.restrt                                               
+|INPCRD: comp-SPE_0088.rst7                                                    
+|  PARM: comp-SPE_0088.parm7                                                   
+|RESTRT: mincomp-SPE_0088.ncrst                                                
 |  REFC: refc                                                                  
 | MDVEL: mdvel                                                                 
 | MDFRC: mdfrc                                                                 
@@ -48,7 +48,7 @@ minimize mpro
 
 | Flags:                                                                        
 | New format PARM file being parsed.
-| Version =    1.000 Date = 04/16/20 Time = 21:52:03
+| Version =    1.000 Date = 04/22/20 Time = 19:50:37
  NATOM  =    4682 NTYPES =      28 NBONH =    2314 MBONA  =    2422
  NTHETH =    5232 MTHETA =    3294 NPHIH =   10779 MPHIA  =   10506
  NHPARM =       0 NPARM  =       0 NNB   =   25781 NRES   =     305
@@ -221,19 +221,17 @@ QMMM: RHF CALCULATION, NO. OF DOUBLY OCCUPIED LEVELS = 53
 | QMMM:                              norbs =       96
 | QMMM:    diag iterations used for timing =       15
 | QMMM:
-| QMMM:              Internal diag routine = 0.060567 seconds
-| QMMM:                 Dspev diag routine = 0.067065 seconds
-| QMMM:                Dspevd diag routine = 0.030260 seconds
-| QMMM:                Dspevx diag routine = 0.139021 seconds
-| QMMM:                 Dsyev diag routine = 0.070508 seconds
-| QMMM:                Dsyevd diag routine = 0.034254 seconds
-| QMMM:                Dsyevr diag routine = 0.035398 seconds
+| QMMM:              Internal diag routine = 0.044709 seconds
+| QMMM:                 Dspev diag routine = 0.067073 seconds
+| QMMM:                Dspevd diag routine = 0.316866 seconds
+| QMMM:                Dspevx diag routine = 0.402845 seconds
+| QMMM:                 Dsyev diag routine = 0.088598 seconds
+| QMMM:                Dsyevd diag routine = 0.050526 seconds
+| QMMM:                Dsyevr diag routine = 0.037278 seconds
 | QMMM:
-| QMMM:                Pseudo diag routine = 0.030834 seconds
-| QMMM: Pseudo diagonalization appears to be slower than regular
-| QMMM: diagonalization. Setting pseudo_diag=0 for optimum performance.
+| QMMM:                Pseudo diag routine = 0.022763 seconds
 | QMMM:
-| QMMM: Using dspevd routine (diag_routine=3).
+| QMMM: Using dsyevr routine (diag_routine=7).
 
 | QMMM: Estimated QM Dynamic Memory Usage (per thread)
 | QMMM: ---------------------------------------------------
@@ -260,10 +258,10 @@ QMMM: RHF CALCULATION, NO. OF DOUBLY OCCUPIED LEVELS = 53
 | QMMM:       _REAL_ parameter storage :       106488 bytes
 | QMMM:      integer parameter storage :         1200 bytes
 | QMMM:         QM-MM RIJ Eqns storage :      7159944 bytes
-| QMMM:          _REAL_ Scratch arrays :       228936 bytes
-| QMMM:         Integer Scratch arrays :        58116 bytes
+| QMMM:          _REAL_ Scratch arrays :       348904 bytes
+| QMMM:         Integer Scratch arrays :        79024 bytes
 | QMMM: ---------------------------------------------------
-| QMMM:        Total Dynamic Memory Usage:      8.030 Mb
+| QMMM:        Total Dynamic Memory Usage:      8.164 Mb
 
 --------------------------------------------------------------------------------
    4.  RESULTS
@@ -292,93 +290,95 @@ QMMM: RHF CALCULATION, NO. OF DOUBLY OCCUPIED LEVELS = 53
 
 
    NSTEP       ENERGY          RMS            GMAX         NAME    NUMBER
-    100      -1.1452E+04     1.3753E+00     3.6344E+01     C6       4657
+    100      -1.1452E+04     1.3753E+00     3.6340E+01     C6       4657
 
  BOND    =      120.7145  ANGLE   =      521.6172  DIHED      =     1251.7769
- VDWAALS =    -2566.1242  EEL     =   -21676.3817  EGB        =    -2816.2249
+ VDWAALS =    -2566.1242  EEL     =   -21676.3817  EGB        =    -2816.2250
  1-4 VDW =     1047.7654  1-4 EEL =    12314.8577  RESTRAINT  =        0.0000
  RM1ESCF =       97.3097
  CMAP    =      253.1055
 
 
    NSTEP       ENERGY          RMS            GMAX         NAME    NUMBER
-    150      -1.1586E+04     4.3555E-01     1.6908E+01     C6       4657
+    150      -1.1586E+04     4.3555E-01     1.6909E+01     C6       4657
 
- BOND    =      144.0227  ANGLE   =      556.4015  DIHED      =     1240.6816
- VDWAALS =    -2621.6129  EEL     =   -21616.6240  EGB        =    -2844.1746
- 1-4 VDW =      989.0293  1-4 EEL =    12209.4292  RESTRAINT  =        0.0000
- RM1ESCF =      110.9839
- CMAP    =      245.5757
-
-
-   NSTEP       ENERGY          RMS            GMAX         NAME    NUMBER
-    200      -1.1677E+04     4.9291E-01     9.0110E+00     OG1      2601
-
- BOND    =      153.2965  ANGLE   =      557.2149  DIHED      =     1219.0689
- VDWAALS =    -2637.6085  EEL     =   -21588.2427  EGB        =    -2866.4325
- 1-4 VDW =      969.0107  1-4 EEL =    12161.8818  RESTRAINT  =        0.0000
- RM1ESCF =      121.1745
- CMAP    =      233.4422
+ BOND    =      144.0224  ANGLE   =      556.4013  DIHED      =     1240.6816
+ VDWAALS =    -2621.6127  EEL     =   -21616.6244  EGB        =    -2844.1744
+ 1-4 VDW =      989.0297  1-4 EEL =    12209.4297  RESTRAINT  =        0.0000
+ RM1ESCF =      110.9840
+ CMAP    =      245.5758
 
 
    NSTEP       ENERGY          RMS            GMAX         NAME    NUMBER
-    250      -1.1698E+04     3.2543E-01     4.8296E+00     CB       2595
+    200      -1.1677E+04     4.9275E-01     9.0132E+00     OG1      2601
 
- BOND    =      149.8072  ANGLE   =      550.6657  DIHED      =     1214.6308
- VDWAALS =    -2640.4317  EEL     =   -21587.9209  EGB        =    -2869.8871
- 1-4 VDW =      970.1011  1-4 EEL =    12170.7854  RESTRAINT  =        0.0000
- RM1ESCF =      112.3258
- CMAP    =      231.9182
+ BOND    =      153.2961  ANGLE   =      557.2138  DIHED      =     1219.0689
+ VDWAALS =    -2637.6079  EEL     =   -21588.2456  EGB        =    -2866.4326
+ 1-4 VDW =      969.0115  1-4 EEL =    12161.8853  RESTRAINT  =        0.0000
+ RM1ESCF =      121.1746
+ CMAP    =      233.4424
 
 
    NSTEP       ENERGY          RMS            GMAX         NAME    NUMBER
-    300      -1.1741E+04     3.0189E-01     6.4565E+00     CD       4131
+    250      -1.1698E+04     3.2543E-01     4.8291E+00     CB       2595
 
- BOND    =      151.9518  ANGLE   =      551.5741  DIHED      =     1210.1571
- VDWAALS =    -2642.7252  EEL     =   -21582.0901  EGB        =    -2877.1337
- 1-4 VDW =      965.7724  1-4 EEL =    12158.0192  RESTRAINT  =        0.0000
- RM1ESCF =       94.8084
+ BOND    =      149.8075  ANGLE   =      550.6642  DIHED      =     1214.6303
+ VDWAALS =    -2640.4315  EEL     =   -21587.9208  EGB        =    -2869.8874
+ 1-4 VDW =      970.1014  1-4 EEL =    12170.7863  RESTRAINT  =        0.0000
+ RM1ESCF =      112.3257
+ CMAP    =      231.9181
+
+
+   NSTEP       ENERGY          RMS            GMAX         NAME    NUMBER
+    300      -1.1741E+04     3.0183E-01     6.4387E+00     CD       4131
+
+ BOND    =      151.9502  ANGLE   =      551.5734  DIHED      =     1210.1572
+ VDWAALS =    -2642.7256  EEL     =   -21582.0894  EGB        =    -2877.1335
+ 1-4 VDW =      965.7730  1-4 EEL =    12158.0203  RESTRAINT  =        0.0000
+ RM1ESCF =       94.8086
  CMAP    =      228.2450
 
 
    NSTEP       ENERGY          RMS            GMAX         NAME    NUMBER
-    350      -1.1775E+04     2.0511E-01     4.3934E+00     OG1      4464
+    350      -1.1775E+04     2.0491E-01     4.4087E+00     OG1      4464
 
- BOND    =      152.8931  ANGLE   =      552.4741  DIHED      =     1206.9390
- VDWAALS =    -2643.3048  EEL     =   -21576.5283  EGB        =    -2883.7269
- 1-4 VDW =      962.3822  1-4 EEL =    12148.8322  RESTRAINT  =        0.0000
- RM1ESCF =       80.5212
- CMAP    =      225.0072
+ BOND    =      152.8886  ANGLE   =      552.4732  DIHED      =     1206.9398
+ VDWAALS =    -2643.3055  EEL     =   -21576.5299  EGB        =    -2883.7326
+ 1-4 VDW =      962.3831  1-4 EEL =    12148.8406  RESTRAINT  =        0.0000
+ RM1ESCF =       80.5240
+ CMAP    =      225.0061
 
-
-   NSTEP       ENERGY          RMS            GMAX         NAME    NUMBER
-    400      -1.1774E+04     2.7181E-01     6.1593E+00     CB       2595
-
- BOND    =      153.6099  ANGLE   =      553.8682  DIHED      =     1205.9795
- VDWAALS =    -2643.0605  EEL     =   -21572.7223  EGB        =    -2885.3438
- 1-4 VDW =      961.0001  1-4 EEL =    12143.1010  RESTRAINT  =        0.0000
- RM1ESCF =       85.7038
- CMAP    =      223.9795
+     ... RESTARTED DUE TO LINMIN FAILURE ...
 
 
    NSTEP       ENERGY          RMS            GMAX         NAME    NUMBER
-    450      -1.1780E+04     1.9374E-01     2.8126E+00     CG2      2597
+    400      -1.1774E+04     2.7194E-01     6.1958E+00     CB       2595
 
- BOND    =      153.3267  ANGLE   =      553.3650  DIHED      =     1204.9503
- VDWAALS =    -2643.4676  EEL     =   -21570.7605  EGB        =    -2887.5499
- 1-4 VDW =      960.4442  1-4 EEL =    12141.9118  RESTRAINT  =        0.0000
- RM1ESCF =       85.0173
- CMAP    =      223.0499
+ BOND    =      153.6387  ANGLE   =      553.8979  DIHED      =     1205.9700
+ VDWAALS =    -2643.0624  EEL     =   -21572.6674  EGB        =    -2885.3648
+ 1-4 VDW =      960.9892  1-4 EEL =    12143.0191  RESTRAINT  =        0.0000
+ RM1ESCF =       85.6954
+ CMAP    =      223.9695
 
 
    NSTEP       ENERGY          RMS            GMAX         NAME    NUMBER
-    500      -1.1813E+04     8.1749E-01     1.2362E+01     CZ       2466
+    450      -1.1780E+04     1.8069E-01     2.5890E+00     CG2      2597
 
- BOND    =      157.9370  ANGLE   =      556.1943  DIHED      =     1202.3032
- VDWAALS =    -2645.2758  EEL     =   -21561.0341  EGB        =    -2899.1250
- 1-4 VDW =      954.1981  1-4 EEL =    12137.2768  RESTRAINT  =        0.0000
- RM1ESCF =       66.7388
- CMAP    =      217.4801
+ BOND    =      153.4049  ANGLE   =      553.3396  DIHED      =     1204.9245
+ VDWAALS =    -2643.4746  EEL     =   -21570.7114  EGB        =    -2887.5733
+ 1-4 VDW =      960.4442  1-4 EEL =    12141.8353  RESTRAINT  =        0.0000
+ RM1ESCF =       84.9948
+ CMAP    =      223.0447
+
+
+   NSTEP       ENERGY          RMS            GMAX         NAME    NUMBER
+    500      -1.1780E+04     1.5932E-01     3.0618E+00     CD1      2462
+
+ BOND    =      153.1864  ANGLE   =      553.3144  DIHED      =     1204.8209
+ VDWAALS =    -2643.9223  EEL     =   -21571.0068  EGB        =    -2887.8431
+ 1-4 VDW =      960.1822  1-4 EEL =    12142.5584  RESTRAINT  =        0.0000
+ RM1ESCF =       85.7956
+ CMAP    =      222.8639
 
 
   Maximum number of minimization cycles reached.
@@ -389,57 +389,58 @@ QMMM: RHF CALCULATION, NO. OF DOUBLY OCCUPIED LEVELS = 53
 
 
    NSTEP       ENERGY          RMS            GMAX         NAME    NUMBER
-    500      -1.1813E+04     8.1749E-01     1.2362E+01     CZ       2466
+    500      -1.1780E+04     1.5932E-01     3.0618E+00     CD1      2462
 
- BOND    =      157.9370  ANGLE   =      556.1943  DIHED      =     1202.3032
- VDWAALS =    -2645.2758  EEL     =   -21561.0341  EGB        =    -2899.1250
- 1-4 VDW =      954.1981  1-4 EEL =    12137.2768  RESTRAINT  =        0.0000
- RM1ESCF =       66.7388
- CMAP    =      217.4801
+ BOND    =      153.1864  ANGLE   =      553.3144  DIHED      =     1204.8209
+ VDWAALS =    -2643.9223  EEL     =   -21571.0068  EGB        =    -2887.8431
+ 1-4 VDW =      960.1822  1-4 EEL =    12142.5584  RESTRAINT  =        0.0000
+ RM1ESCF =       85.7956
+ CMAP    =      222.8639
 
 --------------------------------------------------------------------------------
    5.  TIMINGS
 --------------------------------------------------------------------------------
 
-|                Calc gb radii            169.84 (14.81% of Gen B)
-|                Calc gb diag             350.59 (30.57% of Gen B)
-|                Calc gb off-diag         626.23 (54.61% of Gen B)
-|             Gen Born time           1146.66 (100.0% of Nonbo)
-|          Nonbond force           1146.66 (93.63% of Force)
-|             QMMM setup                 0.48 ( 0.66% of QMMM )
-|             QMMM list build            0.53 ( 0.72% of QMMM )
-|             QMMM RIJ Eqns Calc         4.45 ( 6.06% of QMMM )
-|                   QMMM hcore QM-QM           1.63 (36.79% of QMMM )
-|                   QMMM hcore QM-MM           2.80 (63.20% of QMMM )
+|                Calc gb radii            129.13 (15.08% of Gen B)
+|                Calc gb diag             268.16 (31.32% of Gen B)
+|                Calc gb off-diag         458.87 (53.60% of Gen B)
+|             Gen Born time            856.17 (100.0% of Nonbo)
+|          Nonbond force            856.17 (93.24% of Force)
+|             QMMM setup                 1.05 ( 1.79% of QMMM )
+|             QMMM list build            0.38 ( 0.65% of QMMM )
+|             QMMM RIJ Eqns Calc         3.66 ( 6.26% of QMMM )
+|                   QMMM hcore QM-QM           1.19 (36.67% of QMMM )
+|                   QMMM hcore QM-MM           2.05 (63.32% of QMMM )
 |                   Other                      0.00 ( 0.01% of QMMM )
-|                QMMM hcore calc            4.44 ( 8.63% of QMMM )
-|                      QMMM GB Fock Terms         0.04 ( 0.25% of QMMM )
-|                      Other                     17.85 (99.75% of QMMM )
-|                   QMMM fock build           17.89 (41.21% of QMMM )
-|                   QMMM elec-energy cal       0.10 ( 0.23% of QMMM )
-|                   QMMM full matrix dia      22.84 (52.60% of QMMM )
-|                   QMMM density build         2.59 ( 5.96% of QMMM )
-|                QMMM scf                  43.42 (84.48% of QMMM )
-|                QMMM GB energy             3.54 ( 6.89% of QMMM )
-|             QMMM energy               51.40 (70.07% of QMMM )
-|             QMMM QM-QM force           2.79 ( 3.80% of QMMM )
-|             QMMM QM-MM force          13.68 (18.64% of QMMM )
-|             QMMM Collate Forces        0.03 ( 0.04% of QMMM )
-|          QMMM                      73.35 ( 5.99% of Force)
-|          Bond/Angle/Dihedral        4.60 ( 0.38% of Force)
-|       Force time              1224.62 (100.0% of Runmd)
-|    Runmd Time              1224.62 (99.75% of Total)
-|    Other                      3.02 ( 0.25% of Total)
-| Total time              1227.66 (100.0% of ALL  )
+|                QMMM hcore calc            3.24 ( 7.82% of QMMM )
+|                      QMMM GB Fock Terms         0.07 ( 0.45% of QMMM )
+|                      Other                     15.66 (99.55% of QMMM )
+|                   QMMM fock build           15.73 (44.30% of QMMM )
+|                   QMMM elec-energy cal       0.12 ( 0.33% of QMMM )
+|                   QMMM full matrix dia      11.59 (32.62% of QMMM )
+|                   QMMM pseudo matrix d       5.69 (16.01% of QMMM )
+|                   QMMM density build         2.39 ( 6.74% of QMMM )
+|                QMMM scf                  35.52 (85.61% of QMMM )
+|                QMMM GB energy             2.73 ( 6.57% of QMMM )
+|             QMMM energy               41.49 (71.00% of QMMM )
+|             QMMM QM-QM force           1.99 ( 3.41% of QMMM )
+|             QMMM QM-MM force           9.85 (16.85% of QMMM )
+|             QMMM Collate Forces        0.02 ( 0.04% of QMMM )
+|          QMMM                      58.44 ( 6.36% of Force)
+|          Bond/Angle/Dihedral        3.67 ( 0.40% of Force)
+|       Force time               918.28 (100.0% of Runmd)
+|    Runmd Time               918.28 (99.76% of Total)
+|    Other                      2.15 ( 0.23% of Total)
+| Total time               920.45 (100.0% of ALL  )
 
 | Number of list builds   :          0
 
 | Highest rstack allocated:          0
 | Highest istack allocated:          0
-|           Job began  at 00:26:38.397  on 04/17/2020
-|           Setup done at 00:26:38.603  on 04/17/2020
-|           Run   done at 00:47:06.063  on 04/17/2020
-|     wallclock() was called  159193 times
+|           Job began  at 21:32:30.675  on 04/22/2020
+|           Setup done at 21:32:30.889  on 04/22/2020
+|           Run   done at 21:47:51.130  on 04/22/2020
+|     wallclock() was called  195299 times
 
 |3D-RISM memory allocation summary
 |Type          Maximum        Current   

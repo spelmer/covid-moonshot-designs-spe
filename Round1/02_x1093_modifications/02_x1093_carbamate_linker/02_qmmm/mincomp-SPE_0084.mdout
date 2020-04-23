@@ -3,19 +3,19 @@
           Amber 18 SANDER                              2018
           -------------------------------------------------------
 
-| Run on 04/16/2020 at 23:03:09
+| Run on 04/22/2020 at 20:37:32
 
 |   Executable path: sander
-| Working directory: /Users/sid/Documents/Research/2020_SARS_CoV_2/20200325_diamond_postera_3CLPro/covid-moonshot-designs-spe/03_x1093_carbamate_linker/02_qmmm
+| Working directory: /Users/sid/work/dev/personal/github/covid-moonshot-designs-spe/Round1/02_x1093_modifications/02_x1093_carbamate_linker/02_qmmm
 |          Hostname: Unknown
   [-O]verwriting output
 
 File Assignments:
 |  MDIN: min-qmmm.mdin                                                         
 | MDOUT: mincomp-SPE_0084.mdout                                                
-|INPCRD: comp-SPE_0084.inpcrd                                                  
-|  PARM: comp-SPE_0084.prmtop                                                  
-|RESTRT: mincomp-SPE_0084.restrt                                               
+|INPCRD: comp-SPE_0084.rst7                                                    
+|  PARM: comp-SPE_0084.parm7                                                   
+|RESTRT: mincomp-SPE_0084.ncrst                                                
 |  REFC: refc                                                                  
 | MDVEL: mdvel                                                                 
 | MDFRC: mdfrc                                                                 
@@ -48,7 +48,7 @@ minimize mpro
 
 | Flags:                                                                        
 | New format PARM file being parsed.
-| Version =    1.000 Date = 04/16/20 Time = 21:52:10
+| Version =    1.000 Date = 04/22/20 Time = 19:50:42
  NATOM  =    4683 NTYPES =      29 NBONH =    2315 MBONA  =    2422
  NTHETH =    5234 MTHETA =    3294 NPHIH =   10784 MPHIA  =   10506
  NHPARM =       0 NPARM  =       0 NNB   =   25788 NRES   =     305
@@ -222,15 +222,15 @@ QMMM: RHF CALCULATION, NO. OF DOUBLY OCCUPIED LEVELS = 53
 | QMMM:                              norbs =       97
 | QMMM:    diag iterations used for timing =       15
 | QMMM:
-| QMMM:              Internal diag routine = 0.057176 seconds
-| QMMM:                 Dspev diag routine = 0.063551 seconds
-| QMMM:                Dspevd diag routine = 0.032002 seconds
-| QMMM:                Dspevx diag routine = 0.146878 seconds
-| QMMM:                 Dsyev diag routine = 0.077046 seconds
-| QMMM:                Dsyevd diag routine = 0.058271 seconds
-| QMMM:                Dsyevr diag routine = 0.042653 seconds
+| QMMM:              Internal diag routine = 0.032507 seconds
+| QMMM:                 Dspev diag routine = 0.038824 seconds
+| QMMM:                Dspevd diag routine = 0.023044 seconds
+| QMMM:                Dspevx diag routine = 0.118757 seconds
+| QMMM:                 Dsyev diag routine = 0.050084 seconds
+| QMMM:                Dsyevd diag routine = 0.027453 seconds
+| QMMM:                Dsyevr diag routine = 0.031464 seconds
 | QMMM:
-| QMMM:                Pseudo diag routine = 0.023741 seconds
+| QMMM:                Pseudo diag routine = 0.015701 seconds
 | QMMM:
 | QMMM: Using dspevd routine (diag_routine=3).
 
@@ -402,45 +402,45 @@ QMMM: RHF CALCULATION, NO. OF DOUBLY OCCUPIED LEVELS = 53
    5.  TIMINGS
 --------------------------------------------------------------------------------
 
-|                Calc gb radii            173.79 (14.84% of Gen B)
-|                Calc gb diag             359.84 (30.72% of Gen B)
-|                Calc gb off-diag         637.75 (54.44% of Gen B)
-|             Gen Born time           1171.38 (100.0% of Nonbo)
-|          Nonbond force           1171.38 (93.08% of Force)
-|             QMMM setup                 0.52 ( 0.63% of QMMM )
-|             QMMM list build            0.54 ( 0.65% of QMMM )
-|             QMMM RIJ Eqns Calc         4.50 ( 5.47% of QMMM )
-|                   QMMM hcore QM-QM           1.58 (35.36% of QMMM )
-|                   QMMM hcore QM-MM           2.89 (64.64% of QMMM )
+|                Calc gb radii            105.91 (15.15% of Gen B)
+|                Calc gb diag             222.76 (31.86% of Gen B)
+|                Calc gb off-diag         370.50 (52.99% of Gen B)
+|             Gen Born time            699.17 (100.0% of Nonbo)
+|          Nonbond force            699.17 (92.81% of Force)
+|             QMMM setup                 0.35 ( 0.68% of QMMM )
+|             QMMM list build            0.33 ( 0.64% of QMMM )
+|             QMMM RIJ Eqns Calc         3.33 ( 6.52% of QMMM )
+|                   QMMM hcore QM-QM           0.94 (35.70% of QMMM )
+|                   QMMM hcore QM-MM           1.69 (64.29% of QMMM )
 |                   Other                      0.00 ( 0.01% of QMMM )
-|                QMMM hcore calc            4.47 ( 7.43% of QMMM )
-|                      QMMM GB Fock Terms         0.06 ( 0.24% of QMMM )
-|                      Other                     24.51 (99.76% of QMMM )
-|                   QMMM fock build           24.57 (47.18% of QMMM )
-|                   QMMM elec-energy cal       0.14 ( 0.28% of QMMM )
-|                   QMMM full matrix dia      15.67 (30.10% of QMMM )
-|                   QMMM pseudo matrix d       8.10 (15.56% of QMMM )
-|                   QMMM density build         3.59 ( 6.89% of QMMM )
-|                QMMM scf                  52.08 (86.51% of QMMM )
-|                QMMM GB energy             3.64 ( 6.05% of QMMM )
-|             QMMM energy               60.20 (73.12% of QMMM )
-|             QMMM QM-QM force           2.78 ( 3.37% of QMMM )
-|             QMMM QM-MM force          13.77 (16.72% of QMMM )
-|             QMMM Collate Forces        0.03 ( 0.04% of QMMM )
-|          QMMM                      82.32 ( 6.54% of Force)
-|          Bond/Angle/Dihedral        4.82 ( 0.38% of Force)
-|       Force time              1258.52 (100.0% of Runmd)
-|    Runmd Time              1258.52 (99.80% of Total)
-|    Other                      2.46 ( 0.20% of Total)
-| Total time              1261.01 (100.0% of ALL  )
+|                QMMM hcore calc            2.64 ( 7.09% of QMMM )
+|                      QMMM GB Fock Terms         0.04 ( 0.28% of QMMM )
+|                      Other                     13.88 (99.72% of QMMM )
+|                   QMMM fock build           13.92 (43.17% of QMMM )
+|                   QMMM elec-energy cal       0.10 ( 0.31% of QMMM )
+|                   QMMM full matrix dia      10.99 (34.07% of QMMM )
+|                   QMMM pseudo matrix d       5.15 (15.95% of QMMM )
+|                   QMMM density build         2.09 ( 6.49% of QMMM )
+|                QMMM scf                  32.25 (86.68% of QMMM )
+|                QMMM GB energy             2.32 ( 6.23% of QMMM )
+|             QMMM energy               37.21 (72.88% of QMMM )
+|             QMMM QM-QM force           1.64 ( 3.21% of QMMM )
+|             QMMM QM-MM force           8.18 (16.02% of QMMM )
+|             QMMM Collate Forces        0.02 ( 0.04% of QMMM )
+|          QMMM                      51.05 ( 6.78% of Force)
+|          Bond/Angle/Dihedral        3.11 ( 0.41% of Force)
+|       Force time               753.33 (100.0% of Runmd)
+|    Runmd Time               753.33 (99.65% of Total)
+|    Other                      2.63 ( 0.35% of Total)
+| Total time               755.97 (100.0% of ALL  )
 
 | Number of list builds   :          0
 
 | Highest rstack allocated:          0
 | Highest istack allocated:          0
-|           Job began  at 23:03:09.357  on 04/16/2020
-|           Setup done at 23:03:09.558  on 04/16/2020
-|           Run   done at 23:24:10.363  on 04/16/2020
+|           Job began  at 20:37:32.508  on 04/22/2020
+|           Setup done at 20:37:32.634  on 04/22/2020
+|           Run   done at 20:50:08.484  on 04/22/2020
 |     wallclock() was called  199135 times
 
 |3D-RISM memory allocation summary
