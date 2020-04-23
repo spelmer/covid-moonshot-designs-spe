@@ -14,3 +14,7 @@ change angles slightly, and form polar interactions with proximal polar side
 chains. Ideally, all of these compounds could be tested and the best candidates
 carried forward for modifications and growth on the conserved ends of these 
 molecules.
+
+# Submitted
+
+Assigned submission number SID-ELM-8b3 on April 22, 2020

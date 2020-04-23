@@ -13,3 +13,7 @@ Finally, I am also proposing changing the linker to a carbamate analogous to x04
 attached PDB file contains QM/MM energy minimized structures for all 18 of these candidates
 along with the dimer of the Mpro enzyme to see how these ligands interact with the SER1
 N-terminal ammonium group.
+
+# Submitted
+
+Assigned submission number SID-ELM-1f1 on April 22, 2020
