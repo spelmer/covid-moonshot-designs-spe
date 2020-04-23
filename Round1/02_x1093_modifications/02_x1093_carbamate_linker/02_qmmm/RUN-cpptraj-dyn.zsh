@@ -2,9 +2,9 @@
 
 for mol in 00{81..89}; do
     echo "=== SPE_${mol} ==="
-    cpptraj -p comp-SPE_${mol}.prmtop <<- CPPTRAJ
-        trajin mdcomp-SPE_${mol}.mdcrd 1 last
-        rms :1-304 mass first
-        trajout mdcomp-SPE_${mol}c.mdcrd crd
+    cpptraj -p comp-SPE_${mol}.parm7 <<- CPPTRAJ
+        trajin mdcomp-SPE_${mol}.nc 1 last
+        rms :10-194 mass first
+        trajout mdcomp-SPE_${mol}c.nc nc
 CPPTRAJ
 done
