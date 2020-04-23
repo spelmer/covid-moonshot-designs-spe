@@ -19,3 +19,20 @@ synthesized and tested.
 
 I changed my mind, I am going to build and submit structures for all twenty-four fluoro-
 compounds previously submitted.
+
+# Workflow Update
+
+Another thing that is apparent from this data set is that I've changed my file naming
+convention from an old-style amber format to a more modern-style amber format. This is
+unusual for amber since they have always resisted making any change that would "break
+backward compatibility", including file names. But they did it and I like the new file
+suffixed better, so I am converting to them. They are as follows:
+
+* prmtop -> parm7
+* inpcrd/restrt (ascii) -> rst7
+* mdcrd -> nc
+* restrt (binary) -> ncrst
+
+mdout and mdin file naming conventions didn't change. I considered going back to the previous
+data sets and updating all files to the new suffixes, but then thought better of it. Hope
+this doesn't cause too many problems for anyone following along.
