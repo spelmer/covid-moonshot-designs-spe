@@ -1,3 +1,5 @@
+# Design Objective
+
 The S1' binding pocket is an intriguing region of the Mpro enzyme to target. In the fragment screen,
 many fragments bound in this location, with a hydrogen bond between the ligand and the epsilon nitrogen of HIS163.
 There are three examples of fragments with a 3-pyridine moiety (x0107, x0434, and x0678) and an
@@ -20,3 +22,7 @@ bond acceptor with the epsilon nitrogen of HIS163 and incorporate a nitrogen, ei
 demonstrated with x0995 or incorporated into larger 6+5 or 6+6 bicyclic heteroaromatic rings, to
 interact with the N-terminus of chain B. These compounds offer varying protonation states and angles
 for interacting with this key region of the enzyme.
+
+# Submitted
+
+Assigned submission number SID-ELM-258

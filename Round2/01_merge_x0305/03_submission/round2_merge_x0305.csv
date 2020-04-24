@@ -1,0 +1,9 @@
+Smiles,Name,Residue Name
+CCNc1ncc(cc1NC(=O)N(c1cc(N)cnc1F)C(=O)C=C)C#N,SPE_0114,T14
+CCNc1ncc(cc1NC(=O)N(c1cncc(c1)N)C(=O)C=C)C#N,SPE_0115,T15
+CCNc1ncc(cc1NC(=O)[C@@H](c1cncc(c1)N)NC(=O)C=C)C#N,SPE_0116,T16
+CCNc1ncc(cc1NC(=O)[C@@H](c1cc(N)cnc1F)NC(=O)C=C)C#N,SPE_0117,T17
+CCNc1ncc(cc1NC(=O)[C@@H](c1c(F)[nH]c2c1cccn2)NC(=O)C=C)C#N,SPE_0118,T18
+CCNc1ncc(cc1NC(=O)[C@@H](c1c[nH]c2c1cccn2)NC(=O)C=C)C#N,SPE_0119,T19
+CCNc1ncc(cc1NC(=O)N(c1c[nH]c2c1cccn2)C(=O)C=C)C#N,SPE_0120,T20
+CCNc1ncc(cc1NC(=O)N(c1c(F)[nH]c2c1cccn2)C(=O)C=C)C#N,SPE_0121,T21

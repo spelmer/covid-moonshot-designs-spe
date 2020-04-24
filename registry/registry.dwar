@@ -1,7 +1,7 @@
 <datawarrior-fileinfo>
 <version="3.3">
-<created="1587617457615">
-<rowcount="90">
+<created="1587686393941">
+<rowcount="98">
 </datawarrior-fileinfo>
 <column properties>
 <columnName="idcoordinates2D">
@@ -106,9 +106,17 @@ idcoordinates2D	FragFp	Structure	Molecule Name	Name	Name_tmp	Smiles	Residue Name
 !BmpJw?_x@mpJH@k\B?`BH?Yg@nuS~_x`BotzH?X`B?g~H_Xc}?g|	:UvjfzS_SwE1J3uBEN93NJtI!Yh1212@kV5F!H!Va41Y021V!1B9IV019V!31204kB808!2!30V0Fk	fbmIB@DTdkPHcHheDdeD]DdsbkIs@PULuUE@@@		SPE_0111		O=C(Nc1c(Cl)ncc2c1nc[nH]2)CC1CCCCC1	T11
 !BmpJw?_x@mpJH@k\B?`BH?Yg@nuS~_x`BotzH?X`B?g~H_Xc}?g|	:UvjfzS_SwU1J3uBUN93NJtI!Yh1212@kV5F!H!ca51Y021V401B9IV01AV!31224kB!8%30W0Fk	fbmIB@DTU[PHcHheDdeD]DdsbkIs@PULuUE@@@		SPE_0112		O=C(Nc1c(Cl)ncc2c1cn[nH]2)CC1CCCCC1	T12
 !BmpJw?_x@mpJH@k\B?`BH?_x@mpK~_x`Bm?s~@Hc}b@K~_xa}bOw~_p	:UvjfzS_SwE1J3uBEN83NJ9I!Yh1212@VV5F!F!VV40Y021$B8IV011V!21#FB)30V0FF	fj}IB@DTdkPHcHheDdeDlXdf\l{IXBBA`jjB@@		SPE_0113		O=C(Nc1c(Cl)ncc2c1nccn2)CC1CCCCC1	T13
+	zrUtUWOMWF7w0HAAE80V2O@N0B049W804LtV54!2@V10V1V62KV1Z1J9NVV1GV0Wc19V024108403J21_VckF	fmgxb@DTT[IUzlBPrJIQJYQPySQIKIgJm`HJfZPHJl@@@		SPE_0114		CCNc1ncc(cc1NC(=O)N(c1cc(N)cnc1F)C(=O)C=C)C#N	T14
+	zrUtUWOMWF7w0HAAE80V2O@N0B049W804LtV54!22V10V1V62KV1Z1J9NVV1GV0Wc11V024108403J21_VVkF	fe{x`@DXlFIY`edTTRbbbVTRVRj]eMVj`X@RBJl@@@		SPE_0115		CCNc1ncc(cc1NC(=O)N(c1cncc(c1)N)C(=O)C=C)C#N	T15
+	:UvznOzlFawWLAeEw8k2OHNVB8K9WB0ZMlX542Z2FkG0V7V627VWZ1KCNVWWGV0Vc5WX02J108502J215VVkF	fmgx`@DZLGIU`UdTRTtTRrRabRVUoUZuM@pQ@PUXPH`@		SPE_0116		CCNc1ncc(cc1NC(=O)[C@@H](c1cncc(c1)N)NC(=O)C=C)C#N	T16
+	:UvznOzlFawWLAeEw8k2OHNVB8K9WB0ZMlX542Z2NkO0V7V627VWZ1KCNVWWIV0Vc5dX02J108502J215VckF	fcwxb@DBUXm]f\BPRYYyV{vyUvgF}`BJifdBBkBCH@		SPE_0117		CCNc1ncc(cc1NC(=O)[C@@H](c1cc(N)cnc1F)NC(=O)C=C)C#N	T17
+	:UvzntzlNiwWqAeEg8l2QHNWNOMdWB0gMlX54HZ28lO6kMW62EVdZ5pSQVWWGu1Vh1XW!J108C824014VcFk	eg`^DH@DNIOFnkg@`ICHheDeDdhYlihdedQQhXMMSTEALt`PUXDCD@@		SPE_0118		CCNc1ncc(cc1NC(=O)[C@@H](c1c(F)[nH]c2c1cccn2)NC(=O)C=C)C#N	T18
+	:UvzntzlNiwWqAeEg8l2QHNWNOMdWB0gMlX54HZ28lO6kMW627VWZ5pSQVWWGu1Vh1XW!J108C824014VVFk	fkx`@DZ\FkS`TdrmsLz||zzYtR}FuMRpT@AAUpPH`@		SPE_0119		CCNc1ncc(cc1NC(=O)[C@@H](c1c[nH]c2c1cccn2)NC(=O)C=C)C#N	T19
+	zrUtUWOMWFEw0HAAEN0l2Q@N08F69W884LtX54H02PWA6kWV62KV9Z5J9NVW1Is1Wd12W!J108502401ZVVFk	fcox`@DX}EI]`edTTRbbbbrbRJRJm{KZsZje`BR@JK`@@		SPE_0120		CCNc1ncc(cc1NC(=O)N(c1c[nH]c2c1cccn2)C(=O)C=C)C#N	T20
+	zrUtUWOMWFEw0HAAEN0l2Q@N08F69W884LtX54H02PWA6kWV62SV9Z5J9NVW1Is1Wd12W!J108502401ZVcFk	fkxb@DTyZkSf\BPrJIQJIJJH{SQIKHcMAzNfhhFXdBBk@@@		SPE_0121		CCNc1ncc(cc1NC(=O)N(c1c(F)[nH]c2c1cccn2)C(=O)C=C)C#N	T21
 <hitlist data>
 <hitlistName="<selection>">
-<hitlistData="@@@@@@@@@@@@@@`">
+<hitlistData="@@@@@@@@@@@@@@@P@">
 </hitlist data>
 <datawarrior properties>
 <axisColumn_2D View_0="Structure">
@@ -125,7 +133,7 @@ idcoordinates2D	FragFp	Structure	Molecule Name	Name	Name_tmp	Smiles	Residue Name
 <columnWidth_Table_Residue Name="80">
 <columnWidth_Table_Smiles="80">
 <columnWidth_Table_Structure="100">
-<detailView="height[Data]=0.5;height[Structure]=0.5">
+<detailView="height[Data]=0.39189;height[Structure]=0.60811">
 <faceColor3D_3D View="-1250054">
 <filter0="#browser#	#disabled#	Structure	f`qQ@@DJ@drlrj~gV|uPTEDP@@">
 <filter1="#structure#	Structure">
@@ -135,13 +143,13 @@ idcoordinates2D	FragFp	Structure	Molecule Name	Name	Name_tmp	Smiles	Residue Name
 <filter5="#string#	Smiles">
 <filter6="#string#	Residue Name">
 <filterAnimation0="state=stopped delay=500">
-<mainSplitting="0.70582">
+<mainSplitting="0.70484">
 <mainView="Table">
 <mainViewCount="4">
 <mainViewDockInfo0="root">
 <mainViewDockInfo1="Table	bottom	0.5">
-<mainViewDockInfo2="Table	right	0.5">
-<mainViewDockInfo3="2D View	right	0.5">
+<mainViewDockInfo2="Table	right	0.499">
+<mainViewDockInfo3="2D View	right	0.499">
 <mainViewName0="Table">
 <mainViewName1="2D View">
 <mainViewName2="Structures">
@@ -150,7 +158,7 @@ idcoordinates2D	FragFp	Structure	Molecule Name	Name	Name_tmp	Smiles	Residue Name
 <mainViewType1="2Dview">
 <mainViewType2="structureView">
 <mainViewType3="3Dview">
-<rightSplitting="0.64286">
+<rightSplitting="0.55182">
 <rotationMatrix_3D View00="1">
 <rotationMatrix_3D View01="0">
 <rotationMatrix_3D View02="0">
