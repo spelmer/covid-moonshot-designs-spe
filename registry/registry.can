@@ -88,3 +88,11 @@ O=C(Nc1c(Cl)ncc2n1ccn2)CC1CCCCC1	SPE_0110
 O=C(Nc1c(Cl)ncc2c1nc[nH]2)CC1CCCCC1	SPE_0111
 O=C(Nc1c(Cl)ncc2c1cn[nH]2)CC1CCCCC1	SPE_0112
 O=C(Nc1c(Cl)ncc2c1nccn2)CC1CCCCC1	SPE_0113
+CCNc1ncc(cc1NC(=O)N(c1cc(N)cnc1F)C(=O)C=C)C#N	SPE_0114
+CCNc1ncc(cc1NC(=O)N(c1cncc(c1)N)C(=O)C=C)C#N	SPE_0115
+CCNc1ncc(cc1NC(=O)[C@@H](c1cncc(c1)N)NC(=O)C=C)C#N	SPE_0116
+CCNc1ncc(cc1NC(=O)[C@@H](c1cc(N)cnc1F)NC(=O)C=C)C#N	SPE_0117
+CCNc1ncc(cc1NC(=O)[C@@H](c1c(F)[nH]c2c1cccn2)NC(=O)C=C)C#N	SPE_0118
+CCNc1ncc(cc1NC(=O)[C@@H](c1c[nH]c2c1cccn2)NC(=O)C=C)C#N	SPE_0119
+CCNc1ncc(cc1NC(=O)N(c1c[nH]c2c1cccn2)C(=O)C=C)C#N	SPE_0120
+CCNc1ncc(cc1NC(=O)N(c1c(F)[nH]c2c1cccn2)C(=O)C=C)C#N	SPE_0121
