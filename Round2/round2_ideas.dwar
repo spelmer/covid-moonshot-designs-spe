@@ -1,0 +1,50 @@
+<datawarrior-fileinfo>
+<version="3.3">
+<created="1587840522103">
+<rowcount="6">
+</datawarrior-fileinfo>
+<column properties>
+<columnName="Structure">
+<columnProperty="specialType	idcode">
+<columnName="idcoordinates2D">
+<columnProperty="parent	Structure">
+<columnProperty="specialType	idcoordinates2D">
+<columnName="FragFp">
+<columnProperty="parent	Structure">
+<columnProperty="specialType	FragFp">
+<columnProperty="version	1.2.1">
+</column properties>
+idcoordinates2D	FragFp	Structure	Notes
+!B?`@XKF^lyV@ZXAi`yVA`zf^lGqjH?_x@?g~H?HvZ?`Bw@h`Bmwvw?@E?mwu~@K]}@W|A_pE?	zrUlzWUUlG7wGFA9@B8k2N@N01F491402HlX5C040@a84V1V0XtVc01J0NVcWGk1W1!W!J!80F2!1WVckk	fcwDb@D\DZK^{mxDadTRRTRV`jbtTRvISdasijijYj@`m`@@	
+!Bo`BH@i\}bCvW?Cy_esv~@H_cFJNW?I_|jl|oznBjqR~~@MuWi^CGxxb}_A]|E}}~qzr~Wxc|wU\	:Uvzv:rSzxvyQQDzCn@v@hiEn3hlJ9jIxXEEXj8PahiOaVkbtBfc6o8uVA_IkjV51QW8ZKW!nFWJ0F0W0Fk	ek`ZLH@LIOAchDE`@cIIBeEDeEEeDldhcHk@ncaiej`dJhJ`i`B`\`@	
+!BO`BH?N_]bMwg?Mx_y}t~@OncFLOg?N_|Jh}OZn@jQT|~@LWOqQCGhx`}jl|XHy|~azp~Gxc|Oi|	:Uvzv:rSzxvyQQDzCmAf@hiAn3hkJ9jIx2EEVj8Pbig9DVkbuBec2o8e0e_GkjW53FW84KW!mFV!80W8FV	ek`ZLD@LIOFahDE`@`zPrRPiQQIQQYQKIJXrJpIkhZYZhIBjJjZZFhGH@@	
+!B@oC}bO@}u?vHoCz?`P@Ho]_}|CuH_Da|mpH~oxb|Ok|Ho[D@c|wpO_@}wzXkaCz?bKp~osz?	zrUtU1OM9J7s0H@ETN0V2N@m04!9Y904LfV70X81O090d1V02KZ4V1490V1WLl!V19!@JW08b0G4L1VWVF0	fcoib@LV|w\DS@DYIHThhdhhmDbdhSQBUoUj`@H`hjfp`@@	
+!BxFTZ{qbl@OxXd?x@UKo@ik\Bb@K@ieR{?`Bw__x@bGvw@k\Bb@Hq`L?M?`C_ihQTJxQe{|wPtPC_f]~YmpJw@fWos|tq`BnDwzX	:UvzfzUrS:QTQvEURvQvQ9zUubhWJ5DMtXE7I5NNrjaoX_anz4vZ4wNvZdpIu7Vp9A_0qK180W03RVNZV8Fk	efUYDH@DNGLnagob[D`ICHheDeDeEJiieELddehTQQhYuL}BSSSTE@tsMTEAQUAE@p`@	Based on what I know right now at this time, this is my best guess
+			
+<hitlist data>
+<hitlistName="<selection>">
+<hitlistData="B">
+</hitlist data>
+<datawarrior properties>
+<columnFilter_Table="">
+<columnWidth_Table_Notes="80">
+<columnWidth_Table_Structure="100">
+<currentRecord="5">
+<detailView="height[Data]=0.5;height[Structure]=0.5">
+<formLayout_Form View="TableLayout,3,8.0,-1.0,8.0,11,8.0,-1.0,8.0,-1.0,8.0,-1.0,8.0,-1.0,8.0,-1.0,8.0">
+<formObjectCount_Form View="2">
+<formObjectInfo_Form View_0="Structure	structure	1, 1, 1, 7, full, full">
+<formObjectInfo_Form View_1="Notes	textLine	1, 9, 1, 9, full, full">
+<mainSplitting="0.70681">
+<mainView="Form View">
+<mainViewCount="2">
+<mainViewDockInfo0="root">
+<mainViewDockInfo1="Table	center">
+<mainViewInFront1="true">
+<mainViewName0="Table">
+<mainViewName1="Form View">
+<mainViewType0="tableView">
+<mainViewType1="formView">
+<rightSplitting="0.64286">
+<rowHeight_Table="80">
+</datawarrior properties>
